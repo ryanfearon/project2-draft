@@ -1,16 +1,18 @@
 // Load data from mergedmentalhealth.csv
-d3.csv("MentalHealthDataProject/mergedmentalhealth.csv").then(function(mhData) {
+d3.csv("MentalHealthDataProject/mergedmentalhealth.csv").then(function(data) {
 
-    console.log(mhData)
+    // FUNCTION HERE TO FILTER ONLY DATA WHERE tech_company RESPONSE IS "True"
 
-    // Cast integer values in mhData as a number using the unary + operator
-    // *NOTE: NEED TO FIGURE OUT HOW TO CAST VALUES FOR ALL DATA IN STRING/VARCHAR FORM
-    mhData.forEach(function(data) {
-        data.year = +data.year;
-        data.physical_importance = +data.physical_importance;
-        data.mental_importance = +data.mental_importance;
-        data.industry_support = +data.industry_support;
-        data.age = +data.age});
+    console.log(data)
+
+    // // NOT SURE IF WE NEED TO DO SOMETHING LIKE THIS: Cast integer values in mhData as a number using the unary + operator
+    // // *NOTE: NEED TO FIGURE OUT HOW TO CAST VALUES FOR ALL DATA IN STRING/VARCHAR FORM
+    // data.forEach(function(data) {
+    //     data.year = +data.year;
+    //     data.physical_importance = +data.physical_importance;
+    //     data.mental_importance = +data.mental_importance;
+    //     data.industry_support = +data.industry_support;
+    //     data.age = +data.age});
 });
 
 // Populate dropdown
