@@ -1,4 +1,4 @@
-Year,Tech company?,Employer provide mental health benefits?,Know options for mental health care?,Employer discussed mental health?,Employer offer mental health resources?,Anonymity if you  take advantage of mental health resources?,Easy/difficult to ask for mental health medical leave?,Comfortable discussing mental health with supervisor?,Age,Gender,Country
+year,tech_company,employer_benefits,know_options,employer_discussed_benefits,employer_resources,anonymity,difficulty_leave,comfortable_discussing,age,gender,country
 2016,TRUE,Not eligible for coverage / N/A,N/A,No,No,I don't know,Very easy,Yes,39,M,United Kingdom
 2016,TRUE,No,Yes,Yes,Yes,Yes,Somewhat easy,Yes,29,M,United States of America
 2016,TRUE,No,N/A,No,No,I don't know,Neither easy nor difficult,Maybe,38,M ,United Kingdom

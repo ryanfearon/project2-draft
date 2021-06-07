@@ -1,4 +1,4 @@
-Year,Tech company?,Employer provide mental health benefits?,Know options for mental health care?,Employer discussed mental health?,Employer offer mental health resources?,Anonymity if you  take advantage of mental health resources?,Easy/difficult to ask for mental health medical leave?,Comfortable discussing mental health with supervisor?,Discussed your mental health with your employer?,Employer importance placed on physical health?,Employer importance placed on mental health?,Tech industry supports employees with mental health issues?,Age,Gender,Country
+year,tech_company,employer_benefits,know_options,employer_discussed_benefits,employer_resources,anonymity,difficulty_leave,comfortable_discussing,employer_discussed_issues,physical_importance,mental_importance,industry_support,age,gender,country
 2019,TRUE,I don't know,No,Yes,Yes,I don't know,Very easy,Yes,FALSE,5,5,4,25,M,United States of America
 2019,TRUE,Yes,No,No,Yes,Yes,I don't know,Maybe,FALSE,5,7,1,51,M,United States of America
 2019,TRUE,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,FALSE,5,4,2,27,M,United States of America
