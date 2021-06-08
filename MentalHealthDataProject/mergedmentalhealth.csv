@@ -1,0 +1,1312 @@
+year,tech_company,employer_benefits,know_options,employer_discussed_benefits,employer_resources,anonymity,difficulty_leave,comfortable_discussing,employer_discussed_issues,physical_importance,mental_importance,industry_support,age,gender,country
+2019,True,I don't know,No,Yes,Yes,I don't know,Very easy,Yes,False,5.0,5.0,4.0,25,M,United States of America
+2019,True,Yes,No,No,Yes,Yes,I don't know,Maybe,False,5.0,7.0,1.0,51,M,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,False,5.0,4.0,2.0,27,M,United States of America
+2019,True,I don't know,No,Yes,Yes,Yes,Very easy,Yes,False,1.0,3.0,3.0,37,M,United States of America
+2019,True,I don't know,No,I don't know,I don't know,I don't know,I don't know,No,False,4.0,4.0,3.0,46,M,United States of America
+2019,True,Yes,No,No,No,I don't know,Somewhat difficult,No,False,6.0,5.0,3.0,36,F,United States of America
+2019,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,False,5.0,5.0,3.0,39,F,United States of America
+2019,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,8.0,7.0,2.0,49,M,United Kingdom
+2019,True,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,5.0,5.0,4.0,40,M,United Kingdom
+2019,True,I don't know,No,No,No,Yes,Somewhat easy,Yes,False,7.0,7.0,3.0,31,M,United States of America
+2019,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,Yes,True,7.0,5.0,4.0,37,M,United States of America
+2019,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,No,False,7.0,7.0,3.0,26,F,United States of America
+2019,False,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,True,4.0,2.0,3.0,43,M,Canada
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,9.0,2.0,35,M,United States of America
+2019,True,Yes,No,Yes,I don't know,Yes,Very easy,Yes,False,6.0,6.0,3.0,32,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,7.0,6.0,3.0,37,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,True,8.0,7.0,3.0,41,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,True,10.0,10.0,4.0,40,F,United States of America
+2019,True,I don't know,No,No,No,Yes,Neither easy nor difficult,Yes,True,9.0,5.0,3.0,37,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,True,6.0,3.0,2.0,53,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Very easy,No,False,1.0,1.0,1.0,29,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,True,5.0,9.0,5.0,37,M,United States of America
+2019,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,False,10.0,0.0,4.0,45,F,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Very easy,Yes,True,6.0,6.0,3.0,26,M,Netherlands
+2019,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,5.0,7.0,4.0,28,M,United States of America
+2019,True,Yes,Yes,Yes,No,I don't know,I don't know,Yes,True,7.0,7.0,3.0,24,F,United States of America
+2019,True,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,False,5.0,5.0,4.0,27,M,United States of America
+2019,False,Yes,No,No,I don't know,I don't know,Somewhat easy,Yes,False,8.0,7.0,3.0,42,M,United States of America
+2019,False,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,7.0,7.0,2.0,23,NB,United Kingdom
+2019,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,4.0,4.0,4.0,34,M,United States of America
+2019,True,I don't know,No,No,No,Yes,Very easy,Yes,False,8.0,5.0,4.0,27,M,United States of America
+2019,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,No,False,9.0,7.0,3.0,31,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,False,8.0,6.0,3.0,50,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,3.0,6.0,2.0,41,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,False,0.0,0.0,1.0,40,M,Croatia
+2019,True,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,True,9.0,7.0,2.0,49,M,Other
+2019,False,I don't know,No,No,I don't know,I don't know,Very easy,Yes,True,3.0,3.0,2.0,37,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,10.0,10.0,1.0,52,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,False,9.0,9.0,2.0,33,M,Canada
+2019,True,Yes,Yes,No,I don't know,I don't know,I don't know,No,False,5.0,2.0,3.0,37,M,United States of America
+2019,False,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Yes,False,8.0,7.0,4.0,53,F,United States of America
+2019,True,I don't know,Yes,Yes,No,Yes,Somewhat difficult,Maybe,True,4.0,3.0,2.0,30,M,United States of America
+2019,False,Yes,No,No,No,I don't know,Somewhat easy,No,False,3.0,1.0,1.0,35,M,United States of America
+2019,False,Yes,Yes,I don't know,I don't know,Yes,Somewhat difficult,Maybe,False,7.0,7.0,3.0,60,M ,United States of America
+2019,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,5.0,5.0,3.0,34,F,United States of America
+2019,False,No,No,No,No,I don't know,Difficult,No,True,5.0,2.0,2.0,35,M,United States of America
+2019,False,Yes,No,No,No,I don't know,Somewhat difficult,No,False,2.0,0.0,2.0,34,M,United States of America
+2019,True,I don't know,No,No,No,Yes,Very easy,Yes,True,7.0,3.0,4.0,28,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,5.0,2.0,2.0,28,F,United States of America
+2019,True,I don't know,Yes,No,No,Yes,Somewhat difficult,Maybe,False,7.0,5.0,2.0,36,NB,United Kingdom
+2019,True,No,No,No,No,No,Somewhat difficult,Yes,False,0.0,0.0,3.0,24,M,Ghana
+2019,True,Yes,No,No,Yes,I don't know,I don't know,No,False,5.0,4.0,2.0,55,M,United States of America
+2019,True,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Yes,True,4.0,6.0,3.0,32,M,Norway
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Yes,True,10.0,5.0,3.0,33,M,United States of America
+2019,True,Yes,Yes,No,No,I don't know,I don't know,Maybe,True,7.0,5.0,4.0,30,F,Portugal
+2019,True,Yes,No,No,I don't know,Yes,Very easy,Yes,False,9.0,9.0,4.0,30,M,Portugal
+2019,True,Yes,Yes,Yes,No,I don't know,I don't know,Maybe,False,7.0,7.0,3.0,34,M,Portugal
+2019,True,No,No,No,No,I don't know,Very easy,Yes,False,8.0,7.0,3.0,36,F,Portugal
+2019,True,No,No,No,No,No,Somewhat easy,Yes,False,6.0,3.0,3.0,34,M,Portugal
+2019,True,No,Yes,No,No,No,Very easy,Yes,True,3.0,3.0,3.0,40,M,Portugal
+2019,True,I don't know,No,No,I don't know,Yes,I don't know,Maybe,False,9.0,8.0,4.0,27,M ,Portugal
+2019,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,6.0,7.0,4.0,47,M,United States of America
+2019,False,Yes,Yes,No,Yes,Yes,Difficult,Maybe,False,6.0,4.0,3.0,24,F,United States of America
+2019,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,False,7.0,3.0,1.0,36,M,Portugal
+2019,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,False,8.0,5.0,2.0,28,M,Portugal
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,True,5.0,7.0,2.0,34,M,United Kingdom
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,5.0,5.0,2.0,28,M,Portugal
+2019,True,Yes,Yes,No,No,I don't know,I don't know,No,False,7.0,4.0,2.0,36,M,Portugal
+2019,True,Yes,Yes,I don't know,No,Yes,Somewhat easy,Yes,False,10.0,8.0,4.0,24,M,Portugal
+2019,True,Yes,Yes,No,No,Yes,I don't know,Maybe,False,5.0,5.0,4.0,32,M,United States of America
+2019,False,No,No,Yes,No,Yes,Very easy,Maybe,False,5.0,3.0,2.0,33,M,United Kingdom
+2019,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Maybe,False,6.0,5.0,3.0,39,M,United States of America
+2019,False,Yes,Yes,No,Yes,I don't know,I don't know,No,False,7.0,5.0,3.0,26,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,False,7.0,7.0,3.0,32,F,United States of America
+2019,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,False,7.0,7.0,3.0,42,M,United Kingdom
+2019,True,Yes,Yes,No,Yes,I don't know,I don't know,No,False,10.0,8.0,2.0,41,M,United States of America
+2019,True,Yes,Yes,Yes,No,I don't know,Somewhat difficult,No,False,8.0,4.0,2.0,32,M,Canada
+2019,False,No,Yes,No,Yes,I don't know,I don't know,No,False,3.0,3.0,1.0,32,F,United States of America
+2019,True,Yes,No,I don't know,Yes,I don't know,Very easy,Yes,False,7.0,8.0,3.0,31,F,United States of America
+2019,True,Yes,No,Yes,Yes,I don't know,Difficult,No,False,4.0,1.0,2.0,36,NB,United Kingdom
+2019,True,I don't know,No,Yes,I don't know,Yes,Very easy,Yes,False,10.0,10.0,3.0,33,M,Switzerland
+2019,True,I don't know,No,No,I don't know,Yes,Somewhat easy,Maybe,False,5.0,5.0,3.0,30,M,United States of America
+2019,True,I don't know,Yes,No,No,I don't know,Difficult,Maybe,True,3.0,0.0,1.0,45,F,United States of America
+2019,True,Yes,No,Yes,Yes,I don't know,Very easy,Yes,False,7.0,7.0,4.0,30,M,United States of America
+2019,True,Yes,No,No,No,I don't know,Somewhat difficult,No,False,5.0,5.0,3.0,29,M,Portugal
+2019,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,5.0,2.0,1.0,41,M,United States of America
+2019,False,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,False,1.0,5.0,3.0,27,F,United States of America
+2019,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,True,8.0,8.0,2.0,42,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,I don't know,Yes,False,5.0,3.0,2.0,32,M,United States of America
+2019,True,I don't know,No,I don't know,I don't know,I don't know,Very easy,Yes,False,6.0,5.0,4.0,32,M,United States of America
+2019,True,Yes,Yes,No,No,Yes,Very easy,No,False,5.0,8.0,2.0,20,F,United States of America
+2019,False,I don't know,No,Yes,I don't know,I don't know,Very easy,Yes,False,6.0,6.0,4.0,0,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Very easy,Yes,False,7.0,7.0,3.0,38,M,United States of America
+2019,True,I don't know,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,False,8.0,5.0,3.0,31,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,False,3.0,1.0,4.0,26,M,United States of America
+2019,True,Yes,No,No,No,Yes,Somewhat easy,Yes,True,5.0,6.0,4.0,40,M,United States of America
+2019,False,Yes,No,No,No,I don't know,Somewhat easy,Maybe,False,7.0,7.0,2.0,30,M,United States of America
+2019,False,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,False,0.0,0.0,1.0,38,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,5.0,5.0,4.0,28,M,United States of America
+2019,False,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat difficult,No,False,2.0,1.0,2.0,28,F,Pakistan
+2019,True,Yes,No,No,Yes,I don't know,I don't know,No,True,6.0,3.0,1.0,30,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,7.0,5.0,3.0,23,NB,United States of America
+2019,True,I don't know,No,No,No,I don't know,I don't know,Yes,True,10.0,3.0,5.0,30,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,5.0,9.0,4.0,33,F,United States of America
+2019,False,Yes,Yes,No,No,Yes,Somewhat difficult,No,False,10.0,4.0,3.0,53,F,United States of America
+2019,False,Yes,Yes,Yes,I don't know,Yes,Neither easy nor difficult,Maybe,True,5.0,2.0,2.0,38,M,United States of America
+2019,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,8.0,7.0,4.0,40,M,United States of America
+2019,True,Yes,No,No,I don't know,I don't know,I don't know,Yes,False,7.0,5.0,4.0,42,M,United States of America
+2019,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,True,5.0,5.0,3.0,42,M,United States of America
+2019,False,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,False,8.0,5.0,3.0,38,M,Canada
+2019,False,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,True,6.0,6.0,2.0,33,NB,United States of America
+2019,True,Yes,Yes,I don't know,I don't know,Yes,I don't know,Maybe,False,8.0,5.0,4.0,35,M,United States of America
+2019,False,Not eligible for coverage / NA,Yes,Yes,No,I don't know,Somewhat easy,Yes,True,7.0,7.0,3.0,28,F,Turkey
+2019,True,No,No,No,No,No,Somewhat easy,No,False,1.0,1.0,1.0,42,M,India
+2019,False,Yes,Yes,No,Yes,Yes,Somewhat difficult,No,False,3.0,1.0,3.0,40,M,United States of America
+2019,False,Yes,Yes,Yes,No,I don't know,Somewhat difficult,No,False,7.0,5.0,2.0,54,F,United States of America
+2019,True,Yes,No,No,No,I don't know,Very easy,Yes,False,5.0,9.0,3.0,37,M,United States of America
+2019,False,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,No,True,10.0,8.0,4.0,26,F,United States of America
+2019,False,I don't know,No,No,No,I don't know,I don't know,No,False,6.0,0.0,1.0,37,M,Brazil
+2019,False,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,6.0,0.0,1.0,49,F,United States of America
+2019,False,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,9.0,8.0,4.0,23,M,United States of America
+2019,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,True,8.0,8.0,3.0,42,F,United Kingdom
+2019,True,Yes,No,Yes,Yes,Yes,Difficult,No,True,8.0,4.0,2.0,49,M,Netherlands
+2019,True,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,No,False,6.0,6.0,3.0,41,F,United Kingdom
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,8.0,8.0,3.0,33,M,United Kingdom
+2019,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,5.0,5.0,2.0,27,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,False,7.0,7.0,1.0,47,M,United Kingdom
+2019,True,I don't know,No,Yes,No,Yes,Somewhat difficult,Maybe,False,8.0,3.0,2.0,28,M,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,6.0,4.0,1.0,49,F,Canada
+2019,False,I don't know,No,No,No,Yes,Somewhat difficult,No,False,6.0,5.0,3.0,23,M,United Kingdom
+2019,False,Yes,Yes,Yes,I don't know,Yes,I don't know,Maybe,False,10.0,6.0,1.0,23,NB,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,6.0,7.0,2.0,29,M,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,3.0,3.0,1.0,40,M,United States of America
+2019,True,Yes,No,No,No,I don't know,I don't know,No,False,2.0,2.0,2.0,32,M,United States of America
+2019,True,Yes,Yes,Yes,I don't know,I don't know,Difficult,Yes,True,7.0,4.0,2.0,22,F,United States of America
+2019,True,Yes,Yes,Yes,I don't know,Yes,Very easy,Yes,True,8.0,8.0,2.0,28,M,United States of America
+2019,True,I don't know,No,Yes,I don't know,I don't know,I don't know,No,False,5.0,4.0,1.0,29,F,United States of America
+2019,True,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,5.0,5.0,3.0,38,F,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Very easy,No,False,6.0,5.0,2.0,30,M,United States of America
+2019,False,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,No,False,8.0,5.0,2.0,37,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,False,10.0,5.0,2.0,38,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,True,8.0,5.0,1.0,51,F,United States of America
+2019,False,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,True,10.0,8.0,2.0,39,M,United States of America
+2019,False,Yes,No,I don't know,I don't know,I don't know,I don't know,Yes,False,7.0,8.0,3.0,22,M,United States of America
+2019,True,Yes,Yes,I don't know,Yes,Yes,Very easy,No,True,7.0,5.0,3.0,26,M,United States of America
+2019,False,I don't know,No,No,No,No,Somewhat easy,No,False,5.0,1.0,1.0,42,M,United States of America
+2019,False,Not eligible for coverage / NA,No,Yes,No,I don't know,I don't know,No,True,5.0,2.0,1.0,49,M,United Kingdom
+2019,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,3.0,48,M,United Kingdom
+2019,False,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,7.0,8.0,3.0,25,M,Germany
+2019,True,Yes,No,No,Yes,Yes,Neither easy nor difficult,Maybe,False,8.0,8.0,3.0,63,M,United States of America
+2019,True,No,No,No,No,I don't know,Difficult,No,False,7.0,5.0,3.0,30,F,Turkey
+2019,True,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,False,10.0,10.0,3.0,34,M,Switzerland
+2019,False,No,No,No,Yes,No,Very easy,Yes,True,5.0,5.0,2.0,31,M,Norway
+2019,False,I don't know,No,No,I don't know,I don't know,Very easy,Yes,False,6.0,4.0,3.0,29,F,Norway
+2019,False,Yes,No,No,Yes,I don't know,Somewhat easy,No,False,6.0,4.0,3.0,29,M,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,False,6.0,3.0,1.0,32,M,United States of America
+2019,False,I don't know,No,No,No,I don't know,Very easy,Maybe,False,7.0,6.0,2.0,28,M,Norway
+2019,False,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Maybe,False,7.0,6.0,4.0,36,M,United States of America
+2019,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,False,8.0,6.0,2.0,28,NB,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,False,8.0,8.0,3.0,36,M,United States of America
+2019,True,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,True,5.0,3.0,2.0,40,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,4.0,0.0,3.0,27,M,United States of America
+2019,False,Yes,No,No,I don't know,I don't know,Very easy,Yes,True,3.0,2.0,2.0,28,F,Norway
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,7.0,3.0,34,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,9.0,10.0,4.0,34,M,United States of America
+2019,True,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,True,6.0,1.0,1.0,27,F,United States of America
+2019,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,False,5.0,3.0,3.0,44,F,United States of America
+2019,False,No,No,No,No,I don't know,Neither easy nor difficult,No,True,8.0,5.0,2.0,36,M,Mexico
+2019,False,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,10.0,10.0,3.0,31,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,8.0,10.0,2.0,26,NB,United States of America
+2019,True,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,7.0,8.0,3.0,39,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,6.0,5.0,3.0,36,F,United States of America
+2019,True,Not eligible for coverage / NA,Yes,No,No,Yes,Somewhat easy,Maybe,False,9.0,6.0,3.0,25,F,United States of America
+2019,False,No,No,No,No,I don't know,Very easy,No,False,0.0,0.0,1.0,47,M,Switzerland
+2019,False,Yes,No,Yes,Yes,I don't know,Somewhat easy,Yes,True,5.0,7.0,2.0,38,M,United Kingdom
+2019,True,Yes,Yes,Yes,No,Yes,Very easy,Yes,False,5.0,7.0,2.0,39,M,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Somewhat difficult,No,False,0.0,0.0,3.0,38,M,United States of America
+2019,True,I don't know,Yes,I don't know,Yes,I don't know,Somewhat easy,No,False,8.0,10.0,5.0,23,F ,Italy
+2019,False,Yes,Yes,No,Yes,Yes,Difficult,Yes,True,8.0,1.0,3.0,32,M,United States of America
+2019,False,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,False,6.0,6.0,4.0,33,M,United States of America
+2019,True,I don't know,No,No,No,Yes,Somewhat easy,Yes,True,5.0,4.0,4.0,38,F,New Zealand
+2019,True,Yes,No,No,I don't know,I don't know,Very easy,Maybe,False,6.0,6.0,3.0,42,M,United States of America
+2019,True,I don't know,Yes,No,No,I don't know,Difficult,No,False,5.0,0.0,1.0,39,F,United States of America
+2019,True,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,Yes,False,8.0,5.0,3.0,30,M,Spain
+2019,True,No,No,I don't know,I don't know,I don't know,Very easy,Yes,True,8.0,6.0,2.0,39,M,Germany
+2019,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,10.0,6.0,2.0,50,M,Italy
+2019,False,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,43,M,Portugal
+2019,False,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,10.0,8.0,3.0,53,M,United States of America
+2019,True,Yes,No,Yes,I don't know,I don't know,Very easy,Yes,False,6.0,7.0,3.0,35,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,5.0,10.0,3.0,27,F,Canada
+2019,True,Yes,No,No,No,No,Somewhat easy,No,False,5.0,5.0,2.0,24,F,Canada
+2019,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,10.0,10.0,3.0,29,NB,United States of America
+2019,True,Yes,Yes,No,No,I don't know,I don't know,Yes,False,10.0,2.0,1.0,40,F,Ireland
+2019,True,No,No,No,No,No,Difficult,No,False,10.0,0.0,1.0,39,M,Canada
+2019,True,No,No,No,No,I don't know,Somewhat easy,No,False,1.0,1.0,3.0,28,M,Hong Kong
+2019,False,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,10.0,8.0,3.0,30,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,8.0,8.0,3.0,29,F,United States of America
+2019,False,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,3.0,2.0,24,M,United States of America
+2019,True,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,Yes,True,8.0,5.0,2.0,25,F,United States of America
+2019,False,I don't know,No,Yes,I don't know,I don't know,I don't know,Maybe,False,2.0,5.0,3.0,45,M,United Kingdom
+2019,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,8.0,7.0,2.0,37,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,7.0,6.0,3.0,22,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,7.0,7.0,3.0,35,F,United States of America
+2019,False,I don't know,No,I don't know,I don't know,I don't know,I don't know,Maybe,False,10.0,2.0,2.0,50,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,True,8.0,5.0,2.0,45,M,United States of America
+2019,False,No,No,No,No,I don't know,Difficult,Maybe,False,8.0,2.0,2.0,40,M,United Kingdom
+2019,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,9.0,9.0,3.0,38,F,Pakistan
+2019,False,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,6.0,5.0,2.0,37,M,United States of America
+2019,True,I don't know,No,Yes,I don't know,I don't know,Neither easy nor difficult,Maybe,True,4.0,4.0,3.0,28,F ,United States of America
+2019,True,Yes,No,No,Yes,Yes,Somewhat difficult,No,False,9.0,9.0,4.0,25,M,United States of America
+2019,True,I don't know,No,Yes,No,I don't know,Somewhat easy,No,False,8.0,6.0,4.0,25,M,India
+2019,True,Yes,Yes,No,No,Yes,Very easy,Yes,True,8.0,8.0,2.0,49,M,Canada
+2019,False,Yes,No,No,No,I don't know,Neither easy nor difficult,No,True,6.0,5.0,1.0,19,M,Brazil
+2019,False,Yes,No,Yes,No,No,Difficult,No,True,9.0,2.0,2.0,31,M,Brazil
+2019,False,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,True,6.0,6.0,2.0,30,M,Brazil
+2019,False,I don't know,No,No,No,I don't know,Somewhat easy,Yes,True,5.0,4.0,3.0,39,M,Brazil
+2019,False,Yes,Yes,No,I don't know,Yes,Difficult,No,False,8.0,4.0,2.0,29,M,Brazil
+2019,True,Yes,Yes,No,No,Yes,Somewhat difficult,No,False,9.0,3.0,2.0,32,M,Brazil
+2019,False,No,No,No,No,I don't know,I don't know,Maybe,True,6.0,6.0,4.0,41,M,Brazil
+2019,False,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,False,6.0,6.0,2.0,27,F,Brazil
+2019,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Yes,True,7.0,3.0,3.0,27,M,United States of America
+2019,True,No,No,No,Yes,Yes,Somewhat difficult,No,True,6.0,1.0,1.0,36,M,India
+2019,False,No,No,Yes,No,I don't know,Neither easy nor difficult,No,False,3.0,2.0,3.0,28,F,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,False,5.0,2.0,1.0,27,F,United States of America
+2019,True,Yes,Yes,No,No,Yes,Very easy,Yes,True,7.0,5.0,2.0,47,NB,United States of America
+2019,True,I don't know,No,No,No,I don't know,I don't know,Maybe,False,5.0,3.0,2.0,25,M,India
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,2.0,3.0,3.0,30,F,United States of America
+2019,False,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,I don't know,No,False,5.0,5.0,1.0,45,M,United States of America
+2019,True,I don't know,No,No,No,Yes,Somewhat easy,No,False,10.0,2.0,1.0,26,F ,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,False,6.0,3.0,1.0,32,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,False,5.0,5.0,2.0,43,F,United States of America
+2019,False,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,True,5.0,5.0,2.0,51,M,United States of America
+2019,False,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,7.0,7.0,3.0,30,M,United States of America
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,No,False,7.0,2.0,3.0,48,NB,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Somewhat difficult,No,False,7.0,5.0,2.0,28,F,United States of America
+2019,True,No,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,2.0,2.0,26,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8.0,8.0,4.0,37,M,Estonia
+2019,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,True,7.0,7.0,3.0,42,F,United Kingdom
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,No,False,5.0,5.0,3.0,34,M,United States of America
+2019,True,I don't know,No,Yes,Yes,I don't know,Difficult,No,False,7.0,5.0,3.0,35,F,India
+2019,False,Yes,No,No,No,I don't know,I don't know,No,False,10.0,0.0,1.0,28,M,Mexico
+2019,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,8.0,5.0,3.0,26,M,India
+2019,False,I don't know,No,No,No,No,Somewhat easy,No,False,3.0,0.0,3.0,34,F,India
+2019,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,9.0,1.0,5.0,28,M,India
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7.0,7.0,2.0,34,F,United States of America
+2019,True,I don't know,No,No,No,I don't know,Difficult,Maybe,False,3.0,0.0,2.0,41,M,United States of America
+2019,False,Yes,No,I don't know,I don't know,Yes,Somewhat easy,Yes,True,7.0,5.0,3.0,38,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,True,8.0,8.0,3.0,42,F,United States of America
+2019,True,Yes,Yes,Yes,No,Yes,Somewhat difficult,Yes,False,9.0,3.0,3.0,30,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,8.0,8.0,3.0,46,M,United States of America
+2019,True,I don't know,Yes,No,No,Yes,Somewhat difficult,Maybe,False,6.0,4.0,3.0,41,M,India
+2019,True,Yes,No,No,Yes,I don't know,Somewhat difficult,Yes,True,6.0,3.0,4.0,41,M,Estonia
+2019,False,Yes,Yes,No,Yes,I don't know,Somewhat easy,No,False,10.0,5.0,2.0,25,M,United Kingdom
+2019,True,No,No,Yes,No,No,Somewhat difficult,No,True,4.0,3.0,3.0,27,N,Germany
+2019,True,I don't know,No,Yes,Yes,I don't know,I don't know,No,False,8.0,6.0,2.0,47,F,United States of America
+2019,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Yes,False,8.0,5.0,3.0,24,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,7.0,7.0,4.0,40,M,United States of America
+2019,True,Yes,Yes,No,No,I don't know,Neither easy nor difficult,No,False,5.0,5.0,3.0,37,M,United States of America
+2019,True,I don't know,No,No,Yes,I don't know,Somewhat easy,Yes,False,5.0,3.0,3.0,38,M,United States of America
+2019,True,I don't know,No,I don't know,Yes,I don't know,Somewhat difficult,Yes,False,2.0,0.0,1.0,47,M,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,True,5.0,5.0,3.0,30,F,United States of America
+2019,False,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,True,5.0,3.0,2.0,38,F,United States of America
+2019,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,9.0,9.0,3.0,42,M,Canada
+2019,True,No,No,No,No,I don't know,Very easy,No,False,6.0,0.0,1.0,39,M,Greece
+2019,True,I don't know,No,No,I don't know,Yes,I don't know,Maybe,False,7.0,0.0,2.0,42,M,United States of America
+2019,False,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,10.0,8.0,2.0,47,M,United States of America
+2019,True,Yes,Yes,No,No,Yes,I don't know,Yes,False,7.0,1.0,2.0,29,M,Poland
+2019,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,False,7.0,2.0,1.0,55,M,United States of America
+2019,True,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,False,5.0,5.0,1.0,34,NB,United States of America
+2019,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,8.0,9.0,4.0,45,M,Japan
+2019,False,Yes,No,No,Yes,I don't know,Somewhat difficult,No,False,7.0,1.0,2.0,23,F,India
+2019,False,No,No,No,No,No,Somewhat difficult,No,False,5.0,6.0,3.0,22,F,United States of America
+2019,True,Yes,No,No,I don't know,I don't know,Somewhat difficult,No,False,4.0,2.0,3.0,42,F,United States of America
+2019,True,Yes,No,No,No,Yes,Very easy,Yes,True,8.0,7.0,2.0,26,F,Brazil
+2019,True,No,No,No,No,I don't know,Very easy,Maybe,False,8.0,5.0,3.0,31,F,United States of America
+2019,False,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,False,5.0,5.0,3.0,27,M,India
+2019,True,No,No,No,No,Yes,Difficult,No,False,9.0,3.0,2.0,30,F,India
+2019,True,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,True,5.0,3.0,3.0,24,F,United States of America
+2020,False,Yes,No,Yes,Yes,I don't know,Very easy,Yes,False,4.0,4.0,4.0,26,M,United States of America
+2020,True,No,No,I don't know,Yes,I don't know,Somewhat easy,Maybe,False,8.0,8.0,3.0,32,M,India
+2020,True,I don't know,No,No,No,I don't know,Very easy,No,False,4.0,2.0,3.0,34,M,United States of America
+2020,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,True,8.0,8.0,4.0,44,F,United States of America
+2020,True,No,No,No,Yes,Yes,Difficult,No,False,8.0,6.0,3.0,33,M,India
+2020,True,Yes,No,Yes,Yes,Yes,Neither easy nor difficult,Maybe,True,8.0,8.0,3.0,38,M,Philippines
+2020,False,I don't know,No,No,No,Yes,Somewhat difficult,Yes,False,10.0,0.0,4.0,45,M,United States of America
+2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,9.0,9.0,4.0,27,F,India
+2020,True,I don't know,No,I don't know,No,Yes,Somewhat easy,Maybe,False,5.0,5.0,3.0,21,M,Sri Lanka
+2020,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,False,8.0,4.0,3.0,30,F,United States of America
+2020,False,I don't know,No,No,No,Yes,Somewhat difficult,Yes,False,10.0,9.0,3.0,44,M,India
+2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,False,6.0,5.0,2.0,32,M,Brazil
+2020,True,Yes,No,Yes,Yes,Yes,Difficult,No,False,8.0,8.0,3.0,39,F,India
+2020,False,No,Yes,No,No,I don't know,I don't know,No,False,5.0,4.0,3.0,27,F,Poland
+2020,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,8.0,7.0,3.0,34,M,United States of America
+2020,True,No,No,No,No,I don't know,I don't know,No,False,8.0,3.0,1.0,30,M,Taiwan
+2020,True,Not eligible for coverage / NA,No,No,I don't know,I don't know,Difficult,No,False,8.0,5.0,2.0,50,M,India
+2020,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,False,8.0,7.0,2.0,27,M,United States of America
+2020,True,Yes,No,Yes,I don't know,Yes,Somewhat easy,No,False,6.0,5.0,2.0,28,M,United Kingdom
+2020,True,I don't know,No,No,No,I don't know,Difficult,No,False,6.0,7.0,3.0,27,F,India
+2020,True,I don't know,No,No,No,Yes,Difficult,Maybe,False,10.0,7.0,1.0,34,M,United States of America
+2020,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,7.0,6.0,3.0,42,M,India
+2020,True,Yes,Yes,Yes,Yes,No,Somewhat easy,Maybe,False,8.0,8.0,5.0,22,M,Indonesia
+2020,True,No,No,No,No,No,Difficult,No,False,4.0,0.0,1.0,28,F,India
+2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,3.0,36,M,United States of America
+2020,False,No,Yes,Yes,No,I don't know,Somewhat easy,No,False,3.0,3.0,2.0,41,M,India
+2020,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,True,7.0,4.0,3.0,30,M,United States of America
+2020,False,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,9.0,9.0,3.0,34,M,Australia
+2020,False,I don't know,No,Yes,No,I don't know,Somewhat easy,No,False,5.0,3.0,3.0,23,F,Germany
+2020,False,Yes,Yes,No,Yes,Yes,Somewhat easy,No,False,6.0,5.0,3.0,58,M,United States of America
+2020,False,I don't know,No,No,No,I don't know,I don't know,Maybe,False,7.0,5.0,3.0,40,M,Netherlands
+2020,True,Not eligible for coverage / NA,No,No,No,I don't know,Difficult,No,True,7.0,2.0,2.0,32,M,United States of America
+2020,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,False,7.0,7.0,2.0,30,M,Portugal
+2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7.0,7.0,4.0,33,F,United States of America
+2020,False,I don't know,No,No,Yes,Yes,Somewhat difficult,Yes,True,4.0,6.0,3.0,22,F,Netherlands
+2020,True,Yes,No,I don't know,Yes,Yes,Very easy,Maybe,False,10.0,6.0,3.0,30,F,United States of America
+2020,False,Yes,No,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,5.0,5.0,3.0,44,M,United States of America
+2020,True,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,True,7.0,5.0,2.0,30,M,United States of America
+2020,False,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,7.0,5.0,3.0,39,M,United States of America
+2020,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,3.0,3.0,4.0,48,M,India
+2020,False,I don't know,No,No,No,I don't know,Difficult,No,False,7.0,4.0,2.0,26,M,United States of America
+2020,False,I don't know,Yes,No,Yes,Yes,Somewhat easy,Maybe,False,2.0,5.0,3.0,28,F,Germany
+2020,True,Yes,No,I don't know,I don't know,Yes,Somewhat easy,Yes,False,6.0,5.0,2.0,36,M,United States of America
+2020,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,5.0,0.0,3.0,37,M,Canada
+2020,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Maybe,True,6.0,2.0,1.0,42,M,United States of America
+2020,True,Yes,Yes,No,No,I don't know,I don't know,No,False,5.0,3.0,2.0,31,M,Brazil
+2020,True,I don't know,No,No,No,No,Very easy,No,False,8.0,5.0,2.0,40,M,Spain
+2020,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,False,10.0,9.0,4.0,50,M,United States of America
+2020,True,I don't know,No,Yes,I don't know,I don't know,Difficult,Maybe,False,8.0,6.0,3.0,31,F,India
+2020,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,8.0,7.0,3.0,29,F,Canada
+2020,False,No,No,No,No,I don't know,Somewhat difficult,No,False,7.0,5.0,2.0,40,M,India
+2020,False,No,No,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,3.0,3.0,33,F,Canada
+2020,True,I don't know,No,I don't know,No,I don't know,Somewhat easy,No,False,5.0,5.0,3.0,29,M,Sweden
+2020,True,I don't know,No,Yes,Yes,I don't know,Very easy,Maybe,True,6.0,6.0,4.0,27,F,United States of America
+2020,True,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,Maybe,False,8.0,9.0,3.0,36,M,United States of America
+2020,False,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,5.0,4.0,3.0,33,F,United States of America
+2020,True,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,7.0,7.0,3.0,42,M,Canada
+2020,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,True,4.0,4.0,3.0,31,M,United Kingdom
+2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,False,10.0,7.0,4.0,35,F,Mongolia
+2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8.0,8.0,3.0,46,M,United States of America
+2020,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,9.0,7.0,2.0,54,F,United States of America
+2020,False,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,33,M,India
+2020,True,No,No,No,No,No,Difficult,No,False,7.0,2.0,3.0,40,F,India
+2020,False,I don't know,No,Yes,Yes,Yes,Neither easy nor difficult,Yes,False,9.0,6.0,4.0,23,F,Serbia
+2020,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,5.0,4.0,2.0,32,M,United States of America
+2020,True,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,8.0,8.0,3.0,26,F,United States of America
+2020,False,Yes,No,Yes,No,Yes,Somewhat easy,Yes,False,9.0,8.0,4.0,30,M,Germany
+2020,True,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,True,9.0,7.0,3.0,44,M,United States of America
+2020,True,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,Somewhat difficult,No,False,8.0,5.0,2.0,37,M,United States of America
+2020,True,I don't know,No,No,No,No,Somewhat easy,Yes,False,5.0,5.0,2.0,37,M,India
+2020,True,Yes,No,Yes,No,I don't know,I don't know,No,False,5.0,2.0,2.0,29,F,Brazil
+2020,True,Yes,No,No,No,I don't know,Very easy,Yes,False,8.0,8.0,4.0,39,M,United States of America
+2020,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,0.0,0.0,2.0,44,M,United States of America
+2020,True,No,Yes,No,No,No,I don't know,No,False,5.0,2.0,2.0,23,M,Egypt
+2020,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,10.0,10.0,3.0,22,F,United States of America
+2020,True,I don't know,No,No,Yes,I don't know,I don't know,No,False,8.0,8.0,3.0,31,F,United States of America
+2020,False,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,False,7.0,6.0,4.0,59,M,United States of America
+2020,False,Yes,Yes,Yes,No,Yes,Somewhat easy,Yes,False,6.0,7.0,4.0,48,F,United States of America
+2020,True,I don't know,No,I don't know,I don't know,Yes,Somewhat difficult,No,False,8.0,2.0,3.0,30,F,India
+2020,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,False,7.0,4.0,4.0,23,M,Germany
+2020,False,Yes,No,No,No,Yes,Somewhat easy,No,False,5.0,3.0,3.0,27,M,United States of America
+2020,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,7.0,5.0,3.0,53,F,United States of America
+2020,True,Yes,Yes,No,I don't know,I don't know,Difficult,Maybe,False,7.0,7.0,2.0,32,NB,United States of America
+2020,True,No,No,No,No,I don't know,I don't know,Maybe,True,7.0,0.0,1.0,34,M,India
+2020,False,I don't know,No,No,No,I don't know,Somewhat easy,No,False,8.0,4.0,3.0,29,M,India
+2020,False,No,No,No,No,Yes,Somewhat easy,Yes,False,5.0,4.0,2.0,46,M,Brazil
+2020,False,I don't know,Yes,No,I don't know,I don't know,Very easy,Yes,False,7.0,4.0,2.0,28,M,Iceland
+2020,False,Yes,Yes,Yes,No,I don't know,I don't know,No,False,7.0,6.0,3.0,27,M,Colombia
+2020,True,I don't know,No,Yes,Yes,I don't know,Very easy,Maybe,False,10.0,10.0,4.0,24,F,Philippines
+2020,False,Yes,Yes,No,Yes,I don't know,I don't know,No,False,5.0,5.0,5.0,32,F,United States of America
+2020,False,Yes,Yes,Yes,No,I don't know,Somewhat easy,No,False,8.0,7.0,4.0,26,M,United States of America
+2020,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,False,5.0,5.0,4.0,45,NB,United States of America
+2020,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,8.0,9.0,4.0,21,F,United States of America
+2020,False,No,No,No,No,I don't know,Difficult,No,False,8.0,2.0,2.0,44,F,India
+2020,True,I don't know,No,I don't know,Yes,I don't know,Neither easy nor difficult,No,False,10.0,5.0,4.0,47,M,India
+2020,True,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,Maybe,False,3.0,2.0,2.0,40,M,Brazil
+2020,False,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,False,10.0,5.0,4.0,25,F,Malaysia
+2020,True,Yes,Yes,Yes,I don't know,I don't know,Difficult,Maybe,True,8.0,5.0,1.0,24,F,United States of America
+2020,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,7.0,7.0,5.0,26,F,Indonesia
+2020,False,I don't know,No,Yes,Yes,Yes,Neither easy nor difficult,No,False,7.0,7.0,5.0,32,M,India
+2020,False,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,No,False,5.0,5.0,3.0,33,F,India
+2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,8.0,8.0,2.0,42,F,United States of America
+2020,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,7.0,2.0,46,M,United Kingdom
+2020,True,Yes,No,Yes,No,I don't know,I don't know,Maybe,False,3.0,3.0,3.0,30,M,United States of America
+2020,True,No,No,Yes,Yes,I don't know,Neither easy nor difficult,No,False,8.0,4.0,3.0,24,M,India
+2020,False,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,10.0,7.0,3.0,42,M,India
+2020,False,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,5.0,5.0,3.0,28,M,India
+2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,False,7.0,5.0,2.0,27,F,United States of America
+2020,False,Yes,No,Yes,Yes,Yes,Very easy,Yes,True,8.0,8.0,3.0,62,M,United States of America
+2020,False,No,No,No,No,I don't know,Difficult,No,False,3.0,0.0,2.0,34,M,Turkey
+2020,True,I don't know,No,Yes,No,Yes,Very easy,Yes,True,8.0,7.0,4.0,38,M,Spain
+2020,True,I don't know,No,Yes,Yes,Yes,Very easy,Maybe,False,5.0,5.0,3.0,35,M,United States of America
+2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,8.0,2.0,32,M,United Kingdom
+2020,True,No,No,No,No,I don't know,Somewhat difficult,No,False,4.0,2.0,3.0,32,F,United States of America
+2020,True,No,No,No,No,No,Somewhat easy,Yes,False,2.0,1.0,3.0,25,F,Sri Lanka
+2020,False,No,No,No,No,No,Difficult,Yes,False,8.0,4.0,1.0,24,F,France
+2020,True,I don't know,Yes,No,No,Yes,Neither easy nor difficult,No,True,7.0,7.0,1.0,24,M,Bangladesh
+2020,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,True,5.0,5.0,3.0,48,F,United States of America
+2020,False,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,5.0,9.0,3.0,24,M,Canada
+2020,True,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,4.0,4.0,2.0,32,M,Canada
+2020,True,Yes,No,No,I don't know,I don't know,I don't know,No,False,5.0,5.0,2.0,21,M,Ireland
+2020,False,Yes,No,No,No,Yes,Difficult,Maybe,False,8.0,2.0,3.0,34,M,United States of America
+2020,False,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,False,8.0,5.0,3.0,25,M,Canada
+2020,True,Yes,No,Yes,Yes,I don't know,Very easy,Yes,True,1.0,3.0,2.0,39,M,United States of America
+2020,True,No,No,No,No,Yes,Neither easy nor difficult,No,False,9.0,7.0,3.0,25,M,India
+2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,True,7.0,9.0,2.0,39,M,United States of America
+2020,False,I don't know,No,No,No,I don't know,Somewhat easy,No,False,5.0,5.0,3.0,20,M,United Kingdom
+2020,True,Yes,Yes,Yes,Yes,No,Difficult,No,True,6.0,4.0,2.0,40,F,United Kingdom
+2020,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,False,8.0,3.0,2.0,31,M,India
+2020,False,No,No,No,No,No,Somewhat difficult,No,False,2.0,2.0,2.0,53,M,United States of America
+2020,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,False,9.0,7.0,3.0,23,F,Philippines
+2020,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,34,M,United States of America
+2020,False,Yes,No,Yes,Yes,Yes,Difficult,No,False,6.0,5.0,3.0,43,M,Canada
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,True,8.0,6.0,2.0,57,F,Canada
+2018,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,No,False,8.0,3.0,3.0,29,M,United States of America
+2018,False,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,3.0,1.0,3.0,46,M,United States of America
+2018,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,8.0,8.0,1.0,34,M,Norway
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,5.0,4.0,29,NB,United States of America
+2018,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Yes,False,7.0,8.0,3.0,55,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,I don't know,No,False,4.0,4.0,2.0,29,NB,Finland
+2018,True,I don't know,No,No,No,No,I don't know,No,True,10.0,0.0,1.0,33,M,Russia
+2018,False,Yes,No,No,Yes,I don't know,Somewhat difficult,No,False,3.0,1.0,1.0,37,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,True,6.0,3.0,2.0,45,M,United States of America
+2018,False,No,No,No,No,I don't know,Very easy,Maybe,False,6.0,0.0,2.0,31,M,Germany
+2018,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,7.0,6.0,3.0,26,M,Germany
+2018,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,6.0,0.0,1.0,27,F,Serbia
+2018,False,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,False,5.0,0.0,2.0,35,M,Canada
+2018,False,Yes,No,No,Yes,I don't know,Neither easy nor difficult,No,False,6.0,4.0,4.0,47,M,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,I don't know,I don't know,Maybe,False,10.0,10.0,3.0,37,M,United States of America
+2018,False,No,No,No,No,No,Difficult,No,False,4.0,3.0,3.0,32,M,Colombia
+2018,True,Yes,No,No,I don't know,I don't know,Somewhat easy,No,False,2.0,0.0,3.0,37,M,United States of America
+2018,True,Yes,Yes,I don't know,Yes,Yes,Somewhat easy,Yes,False,5.0,5.0,4.0,36,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Very easy,No,False,4.0,1.0,2.0,45,M,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,False,5.0,5.0,3.0,30,M,United States of America
+2018,True,No,No,Yes,No,I don't know,Very easy,Maybe,False,7.0,5.0,3.0,46,M,Germany
+2018,True,I don't know,No,No,I don't know,I don't know,Difficult,No,True,5.0,4.0,2.0,44,M,Canada
+2018,True,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,5.0,5.0,3.0,32,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,False,6.0,2.0,1.0,34,M,Poland
+2018,False,I don't know,No,No,I don't know,I don't know,I don't know,No,False,7.0,7.0,3.0,38,M,United Kingdom
+2018,True,Yes,Yes,No,I don't know,I don't know,I don't know,No,False,7.0,7.0,1.0,44,M,United States of America
+2018,False,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,False,7.0,6.0,3.0,31,M,Ireland
+2018,True,Yes,No,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,8.0,6.0,2.0,30,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,No,False,5.0,1.0,1.0,44,M,United States of America
+2018,False,I don't know,Yes,No,No,I don't know,Very easy,Yes,True,10.0,4.0,3.0,39,M,United States of America
+2018,False,I don't know,No,No,No,Yes,Somewhat difficult,No,False,5.0,5.0,2.0,39,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,9.0,7.0,3.0,33,M,United States of America
+2018,False,No,No,No,No,I don't know,Difficult,No,False,6.0,2.0,3.0,34,M,Estonia
+2018,True,No,No,Yes,Yes,I don't know,Very easy,Maybe,False,8.0,8.0,4.0,28,M,India
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,No,True,10.0,3.0,1.0,42,M,United States of America
+2018,False,Yes,Yes,I don't know,Yes,I don't know,I don't know,Yes,False,5.0,9.0,1.0,35,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,7.0,8.0,3.0,28,F,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat difficult,Yes,True,5.0,5.0,4.0,37,M,United States of America
+2018,True,I don't know,Yes,No,No,I don't know,Somewhat easy,No,False,10.0,5.0,3.0,35,F,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,7.0,1.0,2.0,31,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,6.0,4.0,27,F,United States of America
+2018,True,Yes,No,Yes,Yes,I don't know,Very easy,Yes,True,8.0,9.0,4.0,36,M,United States of America
+2018,True,I don't know,No,No,I don't know,Yes,Somewhat easy,Yes,True,3.0,3.0,3.0,33,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Very easy,No,True,5.0,5.0,4.0,26,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,5.0,5.0,4.0,34,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,I don't know,No,False,10.0,5.0,3.0,25,M,United States of America
+2018,True,I don't know,No,No,No,Yes,I don't know,No,False,8.0,7.0,4.0,19,F,United States of America
+2018,True,Yes,No,No,I don't know,Yes,Somewhat difficult,No,False,4.0,4.0,2.0,28,M,United States of America
+2018,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,True,6.0,4.0,4.0,26,M,United States of America
+2018,False,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,5.0,2.0,1.0,23,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,3.0,5.0,4.0,46,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Difficult,Yes,True,3.0,2.0,2.0,28,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,0.0,1.0,30,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,True,4.0,4.0,1.0,26,M,Brazil
+2018,True,Yes,Yes,No,No,Yes,Very easy,Maybe,False,7.0,5.0,3.0,37,F,Mauritius
+2018,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,True,6.0,9.0,3.0,35,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,5.0,5.0,2.0,26,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,5.0,5.0,4.0,29,F,United Kingdom
+2018,True,Yes,Yes,I don't know,Yes,Yes,I don't know,Yes,False,7.0,6.0,3.0,57,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,7.0,6.0,3.0,38,M,United States of America
+2018,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,8.0,3.0,20,F,United Kingdom
+2018,True,I don't know,No,No,No,I don't know,Difficult,No,False,5.0,5.0,1.0,41,M,United States of America
+2018,False,Yes,No,No,No,No,Somewhat difficult,Maybe,False,0.0,0.0,1.0,43,M,United States of America
+2018,True,Yes,Yes,No,Yes,Yes,I don't know,Yes,False,5.0,5.0,3.0,35,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Yes,True,4.0,7.0,3.0,40,F,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,9.0,7.0,4.0,42,M,United States of America
+2018,False,Yes,No,No,Yes,Yes,Somewhat easy,Maybe,False,2.0,2.0,3.0,39,M,United States of America
+2018,False,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Yes,True,5.0,3.0,2.0,28,M,United States of America
+2018,True,No,No,No,I don't know,I don't know,Somewhat easy,Yes,False,7.0,7.0,4.0,22,M,India
+2018,True,Yes,Yes,No,Yes,I don't know,Somewhat difficult,No,True,6.0,5.0,2.0,29,F,United States of America
+2018,True,No,No,No,No,I don't know,Difficult,No,False,7.0,1.0,1.0,27,F,Saudi Arabia
+2018,False,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,6.0,0.0,1.0,32,F,Germany
+2018,False,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Yes,False,8.0,6.0,3.0,28,M,United States of America
+2018,True,Yes,No,No,Yes,Yes,Somewhat easy,Yes,True,5.0,5.0,3.0,31,M,United States of America
+2018,False,No,No,No,No,No,Difficult,No,False,0.0,0.0,1.0,24,F,Nigeria
+2018,False,Yes,Yes,Yes,Yes,Yes,I don't know,No,False,7.0,6.0,3.0,27,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,False,10.0,10.0,4.0,36,F,Ireland
+2018,True,No,Yes,No,No,No,Difficult,No,False,0.0,0.0,1.0,37,M,United States of America
+2018,True,Yes,Yes,No,I don't know,Yes,Very easy,No,False,10.0,5.0,2.0,53,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,3.0,1.0,1.0,25,NB,United States of America
+2018,True,Yes,No,No,Yes,Yes,Somewhat difficult,Yes,False,9.0,9.0,3.0,47,M,United States of America
+2018,False,Yes,No,No,I don't know,I don't know,Somewhat difficult,Maybe,True,7.0,2.0,2.0,61,M,United States of America
+2018,True,Yes,No,No,I don't know,Yes,I don't know,Maybe,False,9.0,5.0,4.0,28,M,United States of America
+2018,False,Yes,Yes,Yes,No,Yes,I don't know,Yes,False,8.0,8.0,3.0,31,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,8.0,6.0,4.0,40,M,United States of America
+2018,True,Yes,No,No,I don't know,Yes,Somewhat easy,Yes,False,5.0,5.0,2.0,41,M,United States of America
+2018,True,Yes,Yes,No,Yes,I don't know,Difficult,Maybe,False,5.0,5.0,3.0,34,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,3.0,3.0,3.0,31,F,United States of America
+2018,False,Yes,Yes,No,I don't know,Yes,Very easy,Yes,False,7.0,7.0,4.0,35,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8.0,8.0,2.0,27,F,United States of America
+2018,True,Yes,No,No,Yes,Yes,Somewhat easy,Yes,False,6.0,8.0,3.0,42,F,United States of America
+2018,False,Yes,Yes,No,No,Yes,Somewhat easy,No,False,5.0,2.0,3.0,56,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Neither easy nor difficult,Maybe,True,3.0,3.0,3.0,27,F,United States of America
+2018,True,Yes,No,No,I don't know,Yes,Somewhat difficult,Yes,False,6.0,6.0,3.0,37,F,United Kingdom
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,True,9.0,8.0,3.0,30,F,United Kingdom
+2018,True,Yes,No,I don't know,I don't know,Yes,Somewhat difficult,Yes,False,7.0,5.0,3.0,39,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,7.0,7.0,4.0,31,M,Netherlands
+2018,True,Yes,Yes,No,No,I don't know,I don't know,No,False,8.0,8.0,3.0,46,M,United Kingdom
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,False,9.0,5.0,3.0,45,F,United States of America
+2018,True,Yes,Yes,Yes,I don't know,I don't know,Very easy,Yes,False,8.0,8.0,5.0,41,M,United States of America
+2018,True,Yes,Yes,I don't know,Yes,Yes,Somewhat easy,Maybe,True,8.0,5.0,3.0,37,M,United States of America
+2018,True,I don't know,No,No,No,Yes,Very easy,No,False,7.0,7.0,4.0,33,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,9.0,3.0,28,NB,United States of America
+2018,True,Yes,Yes,No,No,I don't know,I don't know,Yes,True,3.0,3.0,2.0,29,F,Canada
+2018,False,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,3.0,28,F,United States of America
+2018,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,3.0,5.0,2.0,38,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,False,6.0,6.0,3.0,42,M,United States of America
+2018,True,Yes,No,Yes,No,I don't know,Somewhat easy,Maybe,False,3.0,4.0,3.0,28,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,8.0,8.0,2.0,30,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,9.0,9.0,4.0,25,F,United Kingdom
+2018,True,Yes,Yes,No,Yes,I don't know,Difficult,No,True,4.0,1.0,1.0,44,M,United States of America
+2018,False,Yes,No,No,No,I don't know,I don't know,Yes,True,5.0,0.0,2.0,28,NB,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,Very easy,Maybe,False,7.0,5.0,2.0,41,F,United States of America
+2018,False,Yes,No,No,Yes,I don't know,Somewhat easy,Maybe,False,6.0,5.0,3.0,38,M,United States of America
+2018,True,Yes,Yes,No,I don't know,I don't know,I don't know,Maybe,False,7.0,7.0,3.0,37,M,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,False,5.0,5.0,3.0,33,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,6.0,7.0,3.0,35,F,United States of America
+2018,True,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,True,10.0,5.0,3.0,43,M,United States of America
+2018,True,Yes,Yes,No,Yes,Yes,Somewhat easy,Yes,True,5.0,6.0,3.0,38,M,United States of America
+2018,True,No,No,No,I don't know,I don't know,Very easy,No,True,10.0,4.0,1.0,25,M,India
+2018,False,Yes,Yes,No,I don't know,I don't know,Difficult,No,False,3.0,0.0,2.0,37,M,United States of America
+2018,True,Yes,No,Yes,Yes,I don't know,Very easy,Maybe,False,7.0,7.0,3.0,39,M,United States of America
+2018,True,Yes,Yes,I don't know,Yes,I don't know,Neither easy nor difficult,Maybe,False,7.0,7.0,2.0,23,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,True,7.0,7.0,3.0,43,M,United States of America
+2018,False,I don't know,No,No,I don't know,Yes,Neither easy nor difficult,Yes,True,8.0,6.0,3.0,29,M,United States of America
+2018,True,Yes,Yes,No,No,Yes,Very easy,Maybe,True,2.0,5.0,3.0,36,M ,United States of America
+2018,True,Yes,Yes,No,No,Yes,Very easy,Yes,False,5.0,3.0,3.0,33,M,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,Somewhat easy,Yes,False,5.0,5.0,3.0,34,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8.0,7.0,2.0,28,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,False,10.0,10.0,2.0,54,NB,United States of America
+2018,False,I don't know,No,No,No,I don't know,I don't know,Yes,False,6.0,5.0,2.0,39,M,United States of America
+2018,False,Yes,Yes,No,Yes,Yes,Somewhat difficult,No,True,6.0,4.0,2.0,37,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,False,5.0,5.0,1.0,29,M,United States of America
+2018,True,I don't know,No,No,Yes,I don't know,Very easy,Yes,False,5.0,5.0,3.0,31,M,United States of America
+2018,True,Yes,Yes,Yes,I don't know,Yes,Very easy,Yes,True,7.0,7.0,2.0,49,M,United States of America
+2018,True,Yes,No,I don't know,I don't know,Yes,Very easy,Maybe,False,5.0,5.0,2.0,43,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,8.0,7.0,4.0,38,NB,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Maybe,False,4.0,3.0,4.0,35,F,United States of America
+2018,True,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,False,5.0,2.0,3.0,23,M,United States of America
+2018,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,7.0,7.0,3.0,42,M,United Kingdom
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,6.0,5.0,4.0,36,M,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,Somewhat easy,Yes,False,6.0,5.0,3.0,38,M,United States of America
+2018,True,I don't know,No,No,Yes,I don't know,I don't know,Maybe,False,5.0,5.0,1.0,41,M,United Kingdom
+2018,True,Yes,Yes,I don't know,I don't know,Yes,Neither easy nor difficult,Yes,True,8.0,6.0,2.0,37,F,United States of America
+2018,True,I don't know,No,Yes,Yes,Yes,Somewhat easy,Yes,False,8.0,10.0,4.0,25,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,9.0,7.0,3.0,33,M,United States of America
+2018,True,I don't know,No,Yes,I don't know,I don't know,Somewhat easy,Yes,False,7.0,6.0,3.0,35,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,True,5.0,5.0,4.0,32,F,United States of America
+2018,True,No,No,Yes,No,I don't know,Difficult,No,False,10.0,6.0,3.0,25,F ,Poland
+2018,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,7.0,7.0,3.0,40,F,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Maybe,False,7.0,6.0,4.0,34,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,4.0,3.0,2.0,28,M,United States of America
+2018,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,No,True,9.0,3.0,2.0,49,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,5.0,7.0,3.0,33,F,United States of America
+2018,True,Yes,Yes,No,No,Yes,Very easy,No,False,5.0,7.0,4.0,36,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Difficult,Maybe,False,0.0,3.0,2.0,39,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,4.0,2.0,2.0,49,F,United States of America
+2018,True,I don't know,No,Yes,Yes,I don't know,I don't know,Yes,False,7.0,7.0,3.0,33,M,United States of America
+2018,True,I don't know,No,Yes,I don't know,I don't know,Very easy,Yes,True,5.0,8.0,4.0,29,M,United Kingdom
+2018,True,Yes,No,No,No,I don't know,I don't know,Maybe,False,3.0,4.0,3.0,25,M,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Difficult,No,False,2.0,1.0,2.0,35,M,United States of America
+2018,True,Yes,Yes,No,Yes,I don't know,I don't know,Yes,False,10.0,10.0,4.0,21,M,United States of America
+2018,True,Yes,No,No,No,Yes,Very easy,Yes,False,0.0,0.0,5.0,43,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,5.0,5.0,2.0,31,F,United States of America
+2018,True,I don't know,No,Yes,Yes,I don't know,I don't know,Maybe,False,6.0,5.0,2.0,27,F,United States of America
+2018,True,Yes,Yes,No,No,Yes,Somewhat easy,No,False,0.0,0.0,5.0,23,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Very easy,No,True,5.0,3.0,3.0,28,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,False,5.0,3.0,2.0,37,F,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,30,M,United States of America
+2018,True,Yes,Yes,No,Yes,I don't know,I don't know,No,False,1.0,3.0,1.0,30,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Somewhat difficult,Maybe,True,6.0,2.0,1.0,30,F,United States of America
+2018,False,No,No,No,I don't know,I don't know,Difficult,No,False,1.0,0.0,1.0,35,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,8.0,6.0,1.0,45,F,United States of America
+2018,True,No,Yes,No,No,I don't know,Difficult,No,False,7.0,6.0,2.0,31,F,Germany
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,False,6.0,8.0,3.0,34,F,United States of America
+2018,True,No,No,No,No,I don't know,Difficult,No,True,0.0,0.0,2.0,30,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Somewhat easy,No,True,7.0,2.0,2.0,33,NB,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,7.0,7.0,3.0,32,M,United States of America
+2018,False,I don't know,No,No,Yes,I don't know,I don't know,No,False,9.0,3.0,2.0,28,F,United States of America
+2018,True,No,Yes,No,No,I don't know,Somewhat easy,No,True,5.0,2.0,1.0,28,M,United States of America
+2018,True,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,No,False,7.0,4.0,2.0,33,M,United States of America
+2018,True,Yes,Yes,Yes,No,Yes,Very easy,No,True,7.0,6.0,3.0,28,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,True,5.0,0.0,1.0,28,F,United States of America
+2018,True,I don't know,No,No,I don't know,No,Somewhat easy,Yes,False,8.0,3.0,2.0,43,M,United States of America
+2018,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,3.0,31,F,United States of America
+2018,False,Yes,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,6.0,6.0,3.0,40,F,United States of America
+2018,False,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,7.0,4.0,2.0,42,F,United States of America
+2018,True,Yes,No,I don't know,I don't know,I don't know,Somewhat difficult,Maybe,False,7.0,6.0,3.0,38,M,United States of America
+2018,True,I don't know,Yes,No,No,Yes,Very easy,Yes,True,7.0,8.0,3.0,39,M,United States of America
+2018,False,No,No,No,I don't know,I don't know,Somewhat difficult,Maybe,False,10.0,8.0,1.0,21,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,True,8.0,8.0,4.0,32,F ,United States of America
+2018,True,No,Yes,No,No,I don't know,I don't know,Maybe,True,2.0,2.0,3.0,32,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,7.0,6.0,2.0,40,M ,United States of America
+2018,True,Yes,Yes,No,No,Yes,I don't know,No,False,3.0,0.0,3.0,28,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,True,3.0,6.0,2.0,25,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,False,5.0,5.0,4.0,37,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,6.0,8.0,3.0,40,NB,United States of America
+2018,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,7.0,3.0,3.0,31,F,United States of America
+2018,True,Yes,No,No,No,I don't know,Somewhat easy,No,True,6.0,5.0,2.0,26,NB,United States of America
+2018,False,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Yes,False,6.0,5.0,3.0,27,F,United States of America
+2018,True,I don't know,Yes,No,No,No,Neither easy nor difficult,No,False,5.0,5.0,1.0,46,M,Norway
+2018,True,Yes,Yes,I don't know,No,I don't know,I don't know,Maybe,False,6.0,5.0,2.0,22,F ,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,I don't know,No,True,3.0,3.0,1.0,27,M,United States of America
+2018,False,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,2.0,5.0,3.0,28,F,United States of America
+2018,True,Yes,Yes,Yes,No,Yes,Somewhat easy,No,False,7.0,4.0,2.0,32,F,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,7.0,5.0,2.0,33,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,9.0,7.0,4.0,27,F,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,Yes,Somewhat easy,Yes,False,8.0,7.0,2.0,38,F,United States of America
+2018,True,Yes,No,No,No,Yes,Very easy,Yes,True,6.0,6.0,3.0,28,F,United States of America
+2018,False,Yes,No,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,False,2.0,1.0,1.0,32,F,United States of America
+2018,False,No,No,No,No,Yes,Very easy,Yes,False,8.0,3.0,3.0,30,F,United States of America
+2018,True,Yes,Yes,No,No,I don't know,I don't know,No,False,8.0,4.0,2.0,26,F,United States of America
+2018,False,I don't know,No,Yes,Yes,I don't know,I don't know,No,False,7.0,7.0,3.0,41,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,8.0,5.0,2.0,39,F,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,5.0,3.0,3.0,37,M,United States of America
+2018,False,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,6.0,3.0,1.0,35,F ,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,True,3.0,2.0,3.0,33,F,Switzerland
+2018,True,Yes,No,No,I don't know,Yes,Somewhat easy,No,False,6.0,6.0,2.0,38,M ,Netherlands
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,7.0,7.0,4.0,25,F,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,False,6.0,4.0,2.0,41,F,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Very easy,Yes,True,10.0,10.0,3.0,37,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,4.0,2.0,29,M,United States of America
+2018,True,Yes,No,I don't know,I don't know,I don't know,Very easy,Yes,True,7.0,7.0,3.0,45,F,United States of America
+2018,True,I don't know,No,No,No,Yes,Very easy,No,False,5.0,5.0,2.0,45,NB,United Kingdom
+2018,True,Yes,No,No,Yes,Yes,Somewhat easy,Yes,False,8.0,7.0,2.0,45,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,6.0,8.0,3.0,30,NB,United States of America
+2018,True,I don't know,No,No,No,I don't know,Very easy,Yes,False,10.0,10.0,3.0,27,M,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Difficult,Yes,False,4.0,3.0,2.0,36,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,5.0,7.0,3.0,44,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,7.0,8.0,4.0,35,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,True,5.0,5.0,1.0,42,NB,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,False,10.0,8.0,4.0,26,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Very easy,Yes,True,8.0,9.0,4.0,25,NB,United States of America
+2018,False,Yes,Yes,No,No,I don't know,I don't know,Maybe,False,7.0,4.0,2.0,36,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,7.0,6.0,2.0,32,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe,True,2.0,4.0,1.0,29,F,United States of America
+2018,True,I don't know,No,Yes,Yes,Yes,Very easy,Maybe,False,5.0,5.0,2.0,29,F,United States of America
+2018,True,Yes,No,I don't know,I don't know,Yes,Very easy,Yes,False,9.0,9.0,2.0,43,M,United States of America
+2018,False,No,No,Yes,I don't know,I don't know,Somewhat easy,Yes,False,4.0,5.0,4.0,26,M,United Kingdom
+2018,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,True,7.0,5.0,3.0,46,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,9.0,7.0,3.0,30,F,United States of America
+2018,True,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,6.0,3.0,2.0,36,M,United States of America
+2018,False,Yes,Yes,No,Yes,I don't know,I don't know,Maybe,False,5.0,0.0,1.0,31,F,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,I don't know,Yes,False,6.0,2.0,3.0,33,F,United States of America
+2018,False,Yes,Yes,I don't know,Yes,Yes,Difficult,No,False,8.0,8.0,2.0,26,M,United States of America
+2018,True,No,No,No,No,I don't know,I don't know,Maybe,False,0.0,0.0,2.0,37,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,7.0,2.0,36,F,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,5.0,5.0,4.0,45,M,United Kingdom
+2018,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,False,8.0,6.0,4.0,26,M,United States of America
+2018,False,No,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,4.0,3.0,26,M,Mexico
+2018,True,I don't know,No,No,No,Yes,Very easy,Yes,False,8.0,6.0,2.0,34,M,United States of America
+2018,False,Yes,No,No,No,No,Difficult,No,True,6.0,1.0,4.0,42,F,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,I don't know,No,False,1.0,1.0,1.0,42,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,8.0,5.0,2.0,35,M,United States of America
+2018,True,No,No,No,No,Yes,Very easy,Yes,True,8.0,8.0,3.0,36,M,United States of America
+2018,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,False,7.0,7.0,3.0,37,M,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,9.0,9.0,4.0,31,F,United States of America
+2018,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Yes,False,5.0,5.0,3.0,27,M,United States of America
+2018,False,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,False,3.0,3.0,2.0,38,M,United Kingdom
+2018,True,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,False,7.0,5.0,3.0,23,NB,United States of America
+2018,False,No,No,No,I don't know,I don't know,Somewhat difficult,No,False,6.0,0.0,2.0,51,M,United States of America
+2018,True,No,No,No,No,I don't know,I don't know,Maybe,False,8.0,3.0,2.0,19,F,United States of America
+2018,True,Yes,Yes,Yes,I don't know,I don't know,I don't know,No,False,6.0,4.0,2.0,44,M,United States of America
+2018,True,Yes,Yes,No,I don't know,I don't know,I don't know,Maybe,False,6.0,6.0,2.0,42,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Very easy,Yes,True,7.0,7.0,4.0,26,M,United States of America
+2018,False,Yes,Yes,No,No,Yes,Somewhat easy,No,True,9.0,2.0,3.0,38,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,6.0,2.0,26,F ,United States of America
+2018,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,True,9.0,9.0,2.0,32,M,United States of America
+2018,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,7.0,8.0,4.0,39,M,United States of America
+2018,True,Yes,Yes,No,No,Yes,I don't know,Yes,True,10.0,10.0,4.0,44,F,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,I don't know,Very easy,Yes,True,5.0,2.0,3.0,33,F,United States of America
+2018,True,I don't know,No,Yes,No,I don't know,Somewhat easy,Yes,True,6.0,6.0,4.0,42,M,Australia
+2018,False,No,No,No,No,I don't know,Neither easy nor difficult,No,False,4.0,5.0,2.0,28,M,Germany
+2018,True,No,No,Yes,No,I don't know,Very easy,No,True,7.0,5.0,2.0,31,M,France
+2018,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,8.0,7.0,3.0,35,M,France
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,False,0.0,0.0,3.0,30,M,United States of America
+2018,True,Yes,Yes,No,No,I don't know,Somewhat easy,Yes,True,8.0,8.0,4.0,30,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,5.0,5.0,2.0,40,NB,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,3.0,3.0,1.0,39,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,False,0.0,2.0,2.0,24,M,United States of America
+2018,True,Yes,Yes,No,I don't know,Yes,Somewhat difficult,Maybe,True,7.0,4.0,3.0,42,M,United States of America
+2018,True,Yes,No,No,No,I don't know,Difficult,Maybe,False,8.0,4.0,2.0,35,M,United States of America
+2018,True,Yes,Yes,I don't know,I don't know,Yes,Somewhat easy,Yes,False,8.0,8.0,3.0,34,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,7.0,4.0,1.0,33,F,United States of America
+2018,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Yes,True,6.0,7.0,3.0,37,M,United States of America
+2018,False,Yes,Yes,No,No,Yes,Somewhat easy,Yes,False,5.0,5.0,4.0,36,M,United States of America
+2018,False,Yes,No,No,No,Yes,Neither easy nor difficult,Yes,True,6.0,5.0,2.0,47,F,United States of America
+2018,True,I don't know,No,No,No,I don't know,I don't know,Maybe,True,7.0,3.0,2.0,42,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,False,3.0,3.0,3.0,29,NB,United States of America
+2018,True,No,No,No,No,No,Somewhat easy,Maybe,False,2.0,2.0,1.0,30,M,Turkey
+2018,True,No,No,No,No,I don't know,I don't know,No,False,6.0,4.0,2.0,36,M,Poland
+2018,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,8.0,4.0,24,F,United States of America
+2018,False,Yes,Yes,Yes,Yes,Yes,I don't know,No,False,9.0,7.0,3.0,41,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7.0,8.0,2.0,48,F,United States of America
+2018,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,False,8.0,6.0,2.0,31,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,True,6.0,7.0,3.0,65,M,Canada
+2018,True,I don't know,No,I don't know,I don't know,I don't know,Difficult,Yes,False,5.0,3.0,3.0,55,F,United States of America
+2018,True,Yes,No,No,No,I don't know,Somewhat difficult,No,False,1.0,1.0,3.0,41,F,United States of America
+2018,False,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,7.0,4.0,3.0,24,F,United States of America
+2018,True,Yes,Yes,Yes,I don't know,I don't know,Neither easy nor difficult,Maybe,False,5.0,5.0,3.0,30,M,Canada
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,7.0,4.0,37,M,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,8.0,3.0,2.0,29,M,United States of America
+2018,True,Yes,Yes,I don't know,No,I don't know,I don't know,Maybe,True,7.0,6.0,2.0,41,M,United States of America
+2018,False,I don't know,No,No,No,Yes,Somewhat difficult,Maybe,False,10.0,3.0,2.0,30,M,United States of America
+2018,False,I don't know,No,No,I don't know,I don't know,Difficult,No,False,2.0,1.0,1.0,46,M,Italy
+2018,True,I don't know,No,No,No,I don't know,Somewhat easy,No,False,8.0,8.0,2.0,42,M,Spain
+2018,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,8.0,7.0,3.0,29,F,United States of America
+2018,True,Yes,Yes,Yes,Yes,No,Very easy,Maybe,True,7.0,6.0,3.0,34,F,Australia
+2018,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,True,7.0,7.0,3.0,36,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,4.0,4.0,3.0,34,M,United Kingdom
+2018,True,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Yes,False,6.0,7.0,3.0,35,M,United States of America
+2018,True,I don't know,Yes,No,No,No,Difficult,No,False,5.0,0.0,1.0,34,M,United States of America
+2018,True,Yes,Yes,Yes,No,I don't know,Somewhat easy,Maybe,True,10.0,8.0,2.0,24,NB,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,False,0.0,2.0,1.0,37,M,United States of America
+2018,False,No,No,No,No,I don't know,Difficult,Yes,True,9.0,0.0,2.0,24,F ,United States of America
+2018,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,True,3.0,2.0,2.0,31,M,United States of America
+2018,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,5.0,5.0,1.0,40,M ,United States of America
+2018,True,Yes,No,No,No,Yes,Somewhat easy,Yes,True,6.0,5.0,3.0,28,M,United States of America
+2018,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,2.0,2.0,1.0,28,M,United States of America
+2018,False,Yes,Yes,No,Yes,Yes,Difficult,No,False,6.0,5.0,3.0,39,M,Finland
+2018,False,Yes,Yes,I don't know,I don't know,I don't know,I don't know,Maybe,False,8.0,5.0,3.0,31,M,United States of America
+2018,True,Yes,Yes,I don't know,Yes,I don't know,Somewhat easy,Yes,True,0.0,0.0,2.0,27,M,United States of America
+2018,False,Yes,Yes,No,No,Yes,I don't know,No,False,10.0,5.0,2.0,35,M,United States of America
+2017,True,No,Yes,No,I don't know,I don't know,I don't know,Yes,False,6.0,0.0,1.0,27,F,United Kingdom
+2017,True,Yes,Yes,No,No,I don't know,I don't know,Maybe,False,7.0,2.0,2.0,31,M,United Kingdom
+2017,True,I don't know,No,I don't know,No,Yes,Difficult,Yes,True,0.0,1.0,1.0,36,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,Yes,Difficult,Yes,True,7.0,5.0,2.0,22,M,United States of America
+2017,True,Yes,No,No,I don't know,Yes,Somewhat easy,Maybe,False,9.0,5.0,2.0,30,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Very easy,Yes,False,10.0,10.0,2.0,36,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,False,10.0,8.0,2.0,38,F,United States of America
+2017,False,I don't know,No,No,No,Yes,Very easy,Maybe,False,9.0,7.0,2.0,35,M,Switzerland
+2017,False,Yes,Yes,No,No,I don't know,I don't know,No,True,1.0,0.0,1.0,40,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Difficult,Maybe,False,5.0,3.0,1.0,35,M,United States of America
+2017,True,No,No,No,No,I don't know,Neither easy nor difficult,Maybe,True,7.0,7.0,4.0,23,M,Russia
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,False,3.0,2.0,3.0,22,F,United States of America
+2017,False,Yes,No,No,I don't know,I don't know,Somewhat easy,Yes,False,8.0,3.0,4.0,28,M,United States of America
+2017,False,No,No,No,No,Yes,Neither easy nor difficult,Yes,False,9.0,9.0,5.0,38,M,Bangladesh
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,4.0,3.0,3.0,21,M,Germany
+2017,False,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,False,4.0,3.0,3.0,35,F,United Kingdom
+2017,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,2.0,2.0,2.0,22,M,United Kingdom
+2017,False,I don't know,No,No,No,I don't know,Difficult,Yes,True,8.0,2.0,1.0,37,F,United States of America
+2017,True,No,No,Yes,No,I don't know,I don't know,No,False,10.0,5.0,3.0,40,M,Canada
+2017,True,No,No,No,No,Yes,Very easy,Yes,False,7.0,0.0,2.0,33,M,Israel
+2017,False,Yes,No,No,I don't know,I don't know,Somewhat difficult,No,False,5.0,5.0,2.0,66,F,United States of America
+2017,False,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,False,5.0,2.0,3.0,31,F,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,False,7.0,6.0,4.0,32,M,Canada
+2017,True,Yes,Yes,I don't know,No,I don't know,Somewhat difficult,No,False,5.0,5.0,3.0,30,F,United States of America
+2017,True,Yes,Yes,No,No,Yes,Very easy,Maybe,True,5.0,5.0,4.0,31,M,United States of America
+2017,False,Not eligible for coverage / NA,No,No,I don't know,I don't know,I don't know,Maybe,False,2.0,2.0,3.0,28,F,United States of America
+2017,False,No,No,No,No,I don't know,Difficult,No,False,5.0,3.0,1.0,34,F,Japan
+2017,True,Yes,Yes,No,No,No,Difficult,Yes,False,10.0,0.0,3.0,25,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,7.0,5.0,2.0,35,M,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Yes,True,7.0,5.0,3.0,40,M,United States of America
+2017,False,I don't know,No,No,I don't know,I don't know,Very easy,Yes,True,5.0,5.0,2.0,32,M,United States of America
+2017,False,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,4.0,2.0,2.0,39,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,I don't know,I don't know,Maybe,False,9.0,9.0,4.0,33,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,False,8.0,8.0,4.0,40,M,United States of America
+2017,True,Yes,No,No,I don't know,Yes,Very easy,Yes,True,5.0,4.0,3.0,42,M,United States of America
+2017,False,I don't know,No,I don't know,I don't know,I don't know,Difficult,No,True,5.0,5.0,3.0,32,M,United States of America
+2017,False,Yes,Yes,No,Yes,No,Somewhat difficult,No,True,8.0,0.0,3.0,27,F,United States of America
+2017,False,I don't know,No,No,No,I don't know,Difficult,Maybe,False,0.0,0.0,2.0,39,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,I don't know,No,False,6.0,7.0,3.0,42,F,United States of America
+2017,True,Yes,Yes,Yes,No,Yes,Somewhat easy,Yes,True,10.0,8.0,3.0,37,NB,Canada
+2017,False,I don't know,Yes,No,I don't know,I don't know,Difficult,No,True,6.0,2.0,2.0,38,F,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,False,8.0,7.0,4.0,47,M,United Kingdom
+2017,True,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,No,False,5.0,2.0,3.0,64,M,United Kingdom
+2017,False,No,Yes,No,No,I don't know,Somewhat difficult,No,False,8.0,3.0,2.0,28,M,Canada
+2017,True,Yes,Yes,Yes,I don't know,Yes,Very easy,Maybe,False,7.0,7.0,2.0,37,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,9.0,9.0,4.0,30,F,United Kingdom
+2017,False,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,5.0,5.0,3.0,25,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,5.0,6.0,3.0,61,M,United Kingdom
+2017,True,No,No,No,No,I don't know,I don't know,Maybe,False,8.0,4.0,3.0,26,M,India
+2017,False,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,No,True,2.0,2.0,2.0,44,F,United States of America
+2017,True,No,No,No,No,I don't know,I don't know,Yes,False,0.0,0.0,2.0,26,M,Portugal
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,True,9.0,7.0,3.0,26,F,Portugal
+2017,True,I don't know,No,No,I don't know,Yes,Neither easy nor difficult,Yes,False,7.0,5.0,4.0,35,F,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Very easy,Maybe,False,5.0,2.0,1.0,45,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,3.0,2.0,3.0,23,M,United States of America
+2017,False,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,7.0,5.0,3.0,44,M,United States of America
+2017,False,Yes,No,Yes,Yes,Yes,Neither easy nor difficult,Yes,False,5.0,5.0,3.0,38,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,8.0,8.0,2.0,46,M,United States of America
+2017,False,Yes,No,Yes,I don't know,I don't know,Somewhat difficult,Maybe,True,5.0,5.0,2.0,27,NB,United States of America
+2017,False,Yes,Yes,I don't know,Yes,Yes,Difficult,Maybe,True,7.0,2.0,2.0,39,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,No,False,10.0,2.0,1.0,33,F ,United States of America
+2017,True,No,No,No,No,I don't know,Neither easy nor difficult,No,True,7.0,3.0,3.0,32,M,Germany
+2017,True,Yes,Yes,I don't know,No,I don't know,Somewhat easy,No,True,5.0,5.0,2.0,26,F,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Maybe,False,4.0,3.0,2.0,50,M,United States of America
+2017,True,I don't know,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,9.0,8.0,4.0,31,M,United States of America
+2017,True,I don't know,No,Yes,I don't know,I don't know,Somewhat difficult,Maybe,False,8.0,3.0,2.0,46,M,Romania
+2017,True,Yes,No,No,No,Yes,Somewhat easy,No,False,7.0,4.0,2.0,30,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat difficult,Maybe,False,8.0,5.0,2.0,30,M,United States of America
+2017,True,No,No,No,No,I don't know,Neither easy nor difficult,Yes,True,8.0,4.0,3.0,34,M,Germany
+2017,False,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,8.0,4.0,1.0,42,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,No,Somewhat difficult,Maybe,True,8.0,6.0,3.0,24,F,United States of America
+2017,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Maybe,True,8.0,7.0,4.0,23,M,Canada
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,10.0,6.0,2.0,31,F,United States of America
+2017,True,No,No,No,No,I don't know,I don't know,No,False,2.0,6.0,3.0,31,M,Finland
+2017,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,True,5.0,4.0,2.0,27,F,United States of America
+2017,False,Yes,Yes,No,Yes,I don't know,Somewhat difficult,Maybe,False,10.0,1.0,2.0,52,F,United States of America
+2017,True,No,No,No,I don't know,I don't know,I don't know,No,False,4.0,5.0,2.0,37,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Very easy,Yes,False,8.0,4.0,2.0,38,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,True,7.0,5.0,4.0,34,M,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Difficult,No,False,5.0,5.0,1.0,38,F,Germany
+2017,True,I don't know,No,No,I don't know,Yes,Neither easy nor difficult,Maybe,False,4.0,5.0,2.0,30,M,United States of America
+2017,False,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,No,False,8.0,7.0,2.0,52,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Difficult,No,False,1.0,1.0,2.0,26,F,United Kingdom
+2017,False,Yes,No,No,No,Yes,Somewhat difficult,Yes,False,7.0,5.0,4.0,29,F,United States of America
+2017,True,Yes,Yes,No,No,Yes,I don't know,Yes,True,8.0,5.0,2.0,44,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Somewhat easy,No,False,7.0,6.0,3.0,30,M,United States of America
+2017,True,Yes,No,Yes,Yes,I don't know,Very easy,Yes,True,6.0,7.0,2.0,29,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,7.0,4.0,3.0,27,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,9.0,7.0,3.0,39,M,United States of America
+2017,True,Yes,Yes,Yes,No,Yes,Very easy,Yes,True,5.0,5.0,2.0,40,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,7.0,4.0,4.0,36,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,7.0,7.0,3.0,43,M,United States of America
+2017,True,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Maybe,True,8.0,6.0,2.0,38,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,6.0,6.0,3.0,42,M,United States of America
+2017,False,Yes,Yes,No,Yes,Yes,Difficult,No,False,5.0,7.0,3.0,30,M,United States of America
+2017,False,No,Yes,No,No,No,Difficult,No,False,4.0,0.0,3.0,25,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,9.0,9.0,3.0,28,NB,Canada
+2017,True,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,False,5.0,5.0,2.0,24,F,Germany
+2017,True,I don't know,No,No,No,I don't know,Difficult,Yes,False,3.0,6.0,4.0,26,M,United Kingdom
+2017,True,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,False,5.0,1.0,2.0,43,M,United States of America
+2017,False,Yes,Yes,No,Yes,I don't know,I don't know,No,False,8.0,5.0,2.0,25,F,United States of America
+2017,False,Yes,No,Yes,I don't know,I don't know,I don't know,No,False,7.0,6.0,3.0,34,M,United States of America
+2017,True,Yes,Yes,Yes,I don't know,Yes,Very easy,No,False,8.0,8.0,3.0,28,F,United States of America
+2017,True,No,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,6.0,8.0,3.0,22,M,India
+2017,True,I don't know,No,No,Yes,Yes,Very easy,No,False,8.0,5.0,5.0,24,F,Romania
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,True,1.0,7.0,3.0,24,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,No,True,5.0,3.0,2.0,54,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7.0,5.0,2.0,47,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,True,6.0,3.0,2.0,30,NB,United States of America
+2017,False,Yes,Yes,No,I don't know,I don't know,I don't know,No,False,5.0,5.0,3.0,48,M,United States of America
+2017,True,I don't know,No,I don't know,Yes,Yes,Somewhat easy,Yes,True,6.0,3.0,3.0,35,M,United States of America
+2017,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,5.0,5.0,2.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,False,8.0,7.0,3.0,25,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,No,False,5.0,5.0,2.0,48,M,Spain
+2017,False,Yes,No,Yes,I don't know,I don't know,I don't know,Maybe,False,7.0,5.0,3.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Difficult,No,False,2.0,1.0,1.0,42,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,5.0,5.0,2.0,27,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,True,8.0,5.0,3.0,33,F,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,False,5.0,4.0,3.0,27,F,United States of America
+2017,True,Yes,No,No,No,I don't know,I don't know,No,False,4.0,3.0,1.0,48,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,True,5.0,3.0,2.0,32,F,United States of America
+2017,True,Yes,No,Yes,I don't know,I don't know,Somewhat difficult,Maybe,True,7.0,6.0,2.0,29,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Yes,False,7.0,7.0,4.0,23,F,Canada
+2017,False,Yes,No,I don't know,Yes,Yes,Somewhat difficult,Maybe,False,7.0,7.0,3.0,50,F,United States of America
+2017,True,No,No,No,No,I don't know,I don't know,No,False,6.0,5.0,3.0,29,F,Hungary
+2017,False,Yes,No,I don't know,I don't know,I don't know,Very easy,Maybe,False,9.0,7.0,3.0,42,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,False,9.0,5.0,3.0,22,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,False,10.0,10.0,3.0,39,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat difficult,Yes,False,5.0,5.0,2.0,29,F,Canada
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,No,True,4.0,4.0,1.0,30,F,Croatia
+2017,True,Yes,Yes,No,No,I don't know,I don't know,Yes,False,2.0,2.0,4.0,28,M,United States of America
+2017,False,Yes,Yes,No,Yes,I don't know,Very easy,Yes,False,7.0,5.0,4.0,28,M,United States of America
+2017,False,I don't know,Yes,No,I don't know,I don't know,Difficult,No,False,8.0,1.0,1.0,25,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,False,5.0,5.0,3.0,30,M,Bulgaria
+2017,True,I don't know,No,No,No,Yes,Neither easy nor difficult,Yes,False,7.0,5.0,3.0,31,M,Italy
+2017,True,No,No,No,No,Yes,Very easy,No,False,7.0,0.0,1.0,36,M,Romania
+2017,True,I don't know,No,No,No,Yes,Neither easy nor difficult,Yes,True,7.0,7.0,3.0,37,M,Argentina
+2017,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Yes,True,7.0,7.0,3.0,37,M,United States of America
+2017,True,Not eligible for coverage / NA,Yes,No,No,Yes,Somewhat easy,Maybe,True,0.0,2.0,1.0,37,M,Spain
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,6.0,5.0,2.0,33,M,Austria
+2017,True,Yes,No,No,No,I don't know,Very easy,No,False,7.0,4.0,5.0,47,F,United States of America
+2017,True,I don't know,No,Yes,Yes,I don't know,Somewhat easy,Maybe,False,7.0,9.0,4.0,24,F,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,I don't know,Maybe,True,7.0,3.0,2.0,26,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,5.0,5.0,2.0,37,M,Australia
+2017,True,Yes,Yes,Yes,No,No,Neither easy nor difficult,No,True,7.0,4.0,2.0,29,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,True,8.0,5.0,1.0,33,F,United States of America
+2017,True,Yes,No,Yes,Yes,I don't know,Somewhat easy,No,False,8.0,8.0,1.0,44,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,8.0,6.0,2.0,34,F,United States of America
+2017,True,Yes,No,Yes,No,I don't know,I don't know,No,False,6.0,4.0,4.0,35,M,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Very easy,Yes,True,7.0,7.0,3.0,32,NB,United States of America
+2017,True,Yes,No,No,Yes,I don't know,I don't know,Yes,True,3.0,2.0,2.0,31,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,Yes,False,6.0,6.0,2.0,30,M,United States of America
+2017,True,I don't know,No,No,Yes,I don't know,Somewhat difficult,No,False,8.0,3.0,2.0,26,F,United States of America
+2017,False,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,False,3.0,1.0,3.0,29,F,Germany
+2017,False,Yes,Yes,No,Yes,I don't know,Somewhat easy,Maybe,False,7.0,5.0,2.0,35,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Maybe,False,8.0,3.0,1.0,26,NB,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,False,6.0,6.0,3.0,30,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Very easy,Yes,False,9.0,5.0,3.0,39,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,Yes,False,6.0,5.0,3.0,31,M,Spain
+2017,True,No,No,No,No,No,Neither easy nor difficult,Yes,False,7.0,8.0,3.0,27,F,Spain
+2017,True,Yes,No,No,Yes,I don't know,Somewhat easy,Yes,True,5.0,7.0,2.0,36,M,Netherlands
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,7.0,6.0,2.0,44,F ,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,2.0,44,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,True,10.0,10.0,3.0,27,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,7.0,3.0,42,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7.0,7.0,4.0,28,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,8.0,7.0,2.0,43,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,No,Very easy,No,True,9.0,5.0,1.0,49,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,5.0,5.0,2.0,32,M,France
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,2.0,2.0,3.0,33,M,United States of America
+2017,True,No,Yes,No,No,I don't know,Neither easy nor difficult,No,False,7.0,4.0,2.0,45,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Difficult,No,False,7.0,5.0,2.0,25,F,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Difficult,Maybe,False,4.0,2.0,1.0,42,M,United States of America
+2017,True,Yes,No,No,No,I don't know,Neither easy nor difficult,No,False,1.0,0.0,3.0,25,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Difficult,Maybe,True,6.0,2.0,2.0,25,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,7.0,5.0,4.0,31,F,United States of America
+2017,False,Yes,Yes,Yes,No,I don't know,I don't know,No,False,8.0,6.0,3.0,22,F,United States of America
+2017,True,No,No,No,No,No,Difficult,Yes,False,5.0,5.0,3.0,40,M,India
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,10.0,8.0,2.0,28,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,2.0,2.0,4.0,37,M,United States of America
+2017,True,Yes,No,No,No,I don't know,Difficult,No,False,9.0,1.0,1.0,35,M,Canada
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,4.0,3.0,20,M,United Kingdom
+2017,True,Yes,No,No,No,No,Very easy,No,False,10.0,7.0,4.0,27,F,Spain
+2017,False,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,True,9.0,5.0,3.0,62,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,True,8.0,3.0,3.0,29,M,Germany
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,False,7.0,7.0,3.0,37,M,United Kingdom
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat difficult,Maybe,True,5.0,3.0,3.0,51,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,False,8.0,8.0,2.0,60,M,United States of America
+2017,True,Yes,No,No,I don't know,Yes,Somewhat easy,Maybe,False,10.0,7.0,3.0,36,F,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Yes,True,7.0,7.0,2.0,38,M,United States of America
+2017,True,I don't know,No,Yes,Yes,I don't know,Neither easy nor difficult,Yes,False,8.0,8.0,3.0,30,F,Mexico
+2017,True,I don't know,No,Yes,Yes,I don't know,Very easy,Yes,True,5.0,5.0,3.0,35,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,9.0,10.0,3.0,41,M,United Kingdom
+2017,False,I don't know,No,No,No,I don't know,I don't know,Maybe,False,8.0,7.0,2.0,27,M,United States of America
+2017,False,No,No,No,No,Yes,Neither easy nor difficult,Yes,False,5.0,6.0,1.0,53,M,Swaziland
+2017,False,Yes,No,No,No,I don't know,Somewhat difficult,No,False,3.0,2.0,3.0,42,F,United States of America
+2017,False,No,Yes,No,No,I don't know,Neither easy nor difficult,Yes,False,3.0,3.0,3.0,33,M,Germany
+2017,True,Yes,Yes,No,Yes,Yes,Somewhat easy,No,True,6.0,5.0,3.0,25,NB,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,True,6.0,5.0,3.0,40,M,United States of America
+2017,False,Yes,Yes,No,Yes,Yes,Very easy,Yes,False,10.0,5.0,3.0,25,NB,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,No,False,6.0,3.0,3.0,49,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Difficult,No,False,6.0,6.0,3.0,30,M,United States of America
+2017,True,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,False,5.0,6.0,2.0,28,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,I don't know,I don't know,Maybe,False,7.0,5.0,3.0,26,M,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,7.0,2.0,31,M,United States of America
+2017,True,Yes,No,No,No,No,Very easy,Yes,True,4.0,6.0,1.0,32,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Very easy,Maybe,False,5.0,5.0,4.0,24,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Yes,True,5.0,5.0,2.0,34,M,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,7.0,4.0,3.0,31,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,9.0,5.0,3.0,47,M,United States of America
+2017,True,Yes,No,No,I don't know,Yes,Neither easy nor difficult,Maybe,False,8.0,6.0,2.0,59,M,United States of America
+2017,True,I don't know,No,I don't know,No,I don't know,Somewhat easy,Yes,True,6.0,5.0,1.0,44,M,United States of America
+2017,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,3.0,2.0,3.0,26,M,United States of America
+2017,True,I don't know,No,Yes,No,Yes,Neither easy nor difficult,Yes,True,5.0,8.0,3.0,43,M,United States of America
+2017,True,I don't know,No,No,No,No,Somewhat difficult,No,True,5.0,3.0,2.0,22,M,Germany
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,No,False,8.0,5.0,3.0,35,M,United States of America
+2017,True,I don't know,No,No,No,No,I don't know,Yes,False,8.0,5.0,3.0,40,M,United States of America
+2017,False,I don't know,No,No,No,Yes,Somewhat easy,Yes,False,5.0,4.0,2.0,30,M,United States of America
+2017,False,Yes,Yes,I don't know,I don't know,Yes,Very easy,Maybe,False,9.0,5.0,3.0,37,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,Yes,True,4.0,7.0,3.0,27,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Somewhat difficult,No,False,5.0,2.0,1.0,42,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,False,8.0,8.0,4.0,49,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,False,7.0,7.0,1.0,40,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,True,5.0,8.0,4.0,26,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,False,8.0,7.0,3.0,29,M,United States of America
+2017,True,Yes,Yes,Yes,I don't know,Yes,Somewhat difficult,Maybe,False,9.0,8.0,3.0,39,F,United States of America
+2017,False,Yes,Yes,I don't know,I don't know,Yes,Somewhat difficult,Yes,True,6.0,5.0,3.0,40,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,Yes,False,8.0,5.0,3.0,23,M,Ukraine
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,False,9.0,8.0,3.0,50,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,6.0,4.0,3.0,35,M,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe,False,8.0,5.0,2.0,24,M,Mexico
+2017,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,No,False,8.0,6.0,3.0,35,F,United States of America
+2017,True,I don't know,No,No,No,Yes,Very easy,Yes,False,10.0,10.0,4.0,36,M,United States of America
+2017,True,Yes,No,I don't know,I don't know,No,I don't know,Yes,False,10.0,5.0,3.0,50,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,6.0,5.0,2.0,47,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,6.0,7.0,3.0,30,M,United States of America
+2017,True,Yes,No,I don't know,Yes,I don't know,Somewhat easy,Maybe,False,8.0,7.0,2.0,30,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,I don't know,Yes,True,5.0,1.0,2.0,32,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,True,8.0,10.0,4.0,38,NB,United States of America
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,6.0,5.0,3.0,38,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,3.0,38,M,United States of America
+2017,True,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Yes,False,8.0,8.0,3.0,26,F,United States of America
+2017,True,Yes,Yes,No,No,No,Difficult,No,False,3.0,0.0,1.0,45,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,5.0,5.0,1.0,37,F,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,I don't know,No,False,9.0,9.0,4.0,24,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,9.0,9.0,3.0,33,F,United States of America
+2017,True,Yes,Yes,I don't know,Yes,I don't know,I don't know,Yes,True,7.0,5.0,4.0,35,F,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Neither easy nor difficult,Yes,True,6.0,8.0,3.0,44,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,3.0,27,F,United States of America
+2017,True,Yes,No,No,Yes,I don't know,Very easy,No,False,5.0,5.0,2.0,33,M,United States of America
+2017,True,I don't know,No,I don't know,No,Yes,Very easy,Maybe,False,7.0,7.0,3.0,28,F,United States of America
+2017,False,Yes,Yes,I don't know,I don't know,Yes,I don't know,Maybe,False,7.0,6.0,4.0,35,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,False,8.0,4.0,3.0,23,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,False,7.0,6.0,2.0,32,M,Netherlands
+2017,True,Yes,No,No,I don't know,I don't know,Very easy,Yes,False,10.0,8.0,4.0,31,M,Sweden
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,9.0,3.0,4.0,27,M,Switzerland
+2017,True,Yes,No,No,I don't know,No,Neither easy nor difficult,Yes,True,7.0,7.0,3.0,31,M,Netherlands
+2017,True,No,No,No,No,I don't know,Somewhat difficult,Maybe,True,9.0,6.0,4.0,40,M,United Kingdom
+2017,True,No,Yes,No,No,I don't know,Very easy,Yes,True,8.0,6.0,3.0,32,M,Spain
+2017,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,5.0,33,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,False,0.0,5.0,3.0,21,NB,United States of America
+2017,False,Yes,No,No,I don't know,I don't know,Somewhat difficult,No,False,6.0,5.0,3.0,36,M,United States of America
+2017,True,No,No,Yes,No,I don't know,Somewhat easy,Yes,True,7.0,7.0,3.0,44,F,Australia
+2017,False,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,False,9.0,9.0,3.0,57,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,Maybe,False,5.0,3.0,3.0,38,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,False,9.0,8.0,3.0,27,F,United States of America
+2017,True,Yes,No,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,True,6.0,5.0,3.0,36,M,United States of America
+2017,True,Yes,Yes,I don't know,Yes,I don't know,Very easy,Yes,True,5.0,4.0,3.0,35,M,United Kingdom
+2017,True,No,No,No,No,I don't know,Very easy,Maybe,False,9.0,2.0,2.0,30,M,Argentina
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,False,8.0,8.0,3.0,35,M,France
+2017,True,Yes,Yes,No,I don't know,I don't know,Very easy,Yes,False,8.0,8.0,3.0,33,M,Australia
+2017,True,No,Yes,No,No,I don't know,Somewhat easy,No,False,8.0,6.0,2.0,32,M,Netherlands
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,No,False,5.0,4.0,1.0,45,M,United Kingdom
+2017,True,I don't know,No,No,No,I don't know,I don't know,No,False,5.0,3.0,2.0,31,M,Romania
+2017,False,I don't know,No,Yes,I don't know,I don't know,Very easy,Maybe,False,9.0,7.0,3.0,40,M,Spain
+2017,False,I don't know,No,No,No,I don't know,Very easy,Maybe,False,6.0,4.0,3.0,37,M,United States of America
+2017,True,No,No,No,No,I don't know,I don't know,No,False,7.0,7.0,1.0,29,M,Poland
+2017,True,Yes,Yes,Yes,I don't know,Yes,Very easy,No,False,7.0,7.0,2.0,26,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,6.0,9.0,3.0,51,F,United States of America
+2017,True,Yes,Yes,Yes,No,I don't know,I don't know,Yes,False,6.0,8.0,3.0,33,F,United States of America
+2017,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,True,7.0,7.0,4.0,27,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat difficult,No,False,3.0,3.0,2.0,42,M,United States of America
+2017,False,I don't know,No,Yes,Yes,Yes,Somewhat easy,Yes,False,10.0,10.0,3.0,32,M,United Kingdom
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5.0,5.0,2.0,58,M,Belgium
+2017,True,Yes,Yes,No,No,Yes,Very easy,No,False,8.0,10.0,3.0,25,M,India
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,9.0,9.0,3.0,31,F,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,Yes,True,7.0,2.0,2.0,42,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Difficult,No,False,4.0,1.0,1.0,41,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Maybe,True,8.0,5.0,2.0,35,NB,United States of America
+2017,True,Yes,Yes,No,No,No,Neither easy nor difficult,Maybe,False,9.0,3.0,2.0,24,M,Mexico
+2017,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,10.0,5.0,3.0,37,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,5.0,34,M,India
+2017,False,No,No,No,No,I don't know,Somewhat difficult,Maybe,False,5.0,4.0,2.0,37,M,Singapore
+2017,True,No,No,I don't know,No,I don't know,Difficult,Maybe,False,7.0,3.0,1.0,30,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,No,False,2.0,5.0,2.0,27,M,France
+2017,False,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,7.0,7.0,3.0,41,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,7.0,7.0,3.0,41,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Difficult,Maybe,False,8.0,5.0,2.0,39,M,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,True,9.0,6.0,3.0,42,M,United States of America
+2017,True,Yes,No,No,No,Yes,Very easy,Yes,True,8.0,8.0,3.0,28,F,United States of America
+2017,True,No,No,No,No,I don't know,Difficult,No,False,7.0,3.0,3.0,29,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Very easy,Maybe,False,5.0,5.0,2.0,46,M,United States of America
+2017,True,Yes,Yes,I don't know,No,No,Somewhat difficult,Yes,True,2.0,3.0,2.0,38,M,Spain
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,8.0,7.0,2.0,34,M,United States of America
+2017,True,Yes,No,No,No,I don't know,I don't know,Yes,False,7.0,5.0,3.0,28,M,Germany
+2017,True,No,No,No,No,I don't know,Difficult,No,False,2.0,8.0,2.0,28,F ,Netherlands
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,True,5.0,5.0,1.0,38,M,Germany
+2017,False,Yes,No,No,No,I don't know,Somewhat easy,Maybe,True,8.0,7.0,4.0,33,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,I don't know,Maybe,True,6.0,6.0,2.0,38,F,United States of America
+2017,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,2.0,3.0,48,M,United States of America
+2017,True,No,No,No,No,Yes,Very easy,Maybe,True,10.0,10.0,3.0,44,F,France
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,8.0,8.0,2.0,34,M,United States of America
+2017,True,No,No,No,No,I don't know,I don't know,No,False,7.0,0.0,2.0,29,F,United States of America
+2017,False,No,No,I don't know,Yes,I don't know,Somewhat easy,No,False,7.0,3.0,1.0,39,M,United Kingdom
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,6.0,8.0,2.0,41,M,Slovakia
+2017,True,Yes,No,No,Yes,Yes,Very easy,No,False,5.0,5.0,3.0,33,M,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,Very easy,No,False,6.0,4.0,2.0,44,M,France
+2017,False,I don't know,No,No,No,I don't know,Somewhat easy,No,False,6.0,0.0,3.0,33,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,False,3.0,3.0,2.0,26,NB,Austria
+2017,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,6.0,7.0,2.0,32,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,5.0,8.0,4.0,35,F,Ireland
+2017,False,I don't know,No,Yes,Yes,Yes,Very easy,Yes,False,8.0,8.0,4.0,40,M,France
+2017,False,I don't know,No,No,I don't know,Yes,Somewhat easy,Yes,False,5.0,6.0,2.0,30,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,9.0,7.0,3.0,34,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Maybe,False,8.0,8.0,3.0,21,M,United States of America
+2017,False,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,6.0,5.0,1.0,37,M,France
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,7.0,8.0,4.0,33,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,7.0,7.0,2.0,28,M,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,I don't know,Yes,True,7.0,7.0,1.0,41,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,6.0,8.0,2.0,28,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Very easy,Yes,False,5.0,3.0,2.0,39,M,United Kingdom
+2017,True,Yes,No,No,No,I don't know,Difficult,No,False,1.0,0.0,1.0,45,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,True,3.0,3.0,1.0,27,M,France
+2017,True,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe,False,7.0,5.0,2.0,31,F,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat easy,No,True,6.0,6.0,3.0,31,M,France
+2017,True,Yes,Yes,No,Yes,I don't know,I don't know,Yes,True,8.0,8.0,3.0,23,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,No,False,2.0,1.0,2.0,38,M,France
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,7.0,6.0,2.0,37,M,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,Maybe,False,6.0,5.0,3.0,33,M,Luxembourg
+2017,False,Yes,Yes,Yes,I don't know,I don't know,Somewhat difficult,No,False,3.0,1.0,1.0,47,M ,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,True,6.0,3.0,4.0,29,F,United States of America
+2017,False,Yes,No,I don't know,Yes,I don't know,Neither easy nor difficult,Maybe,False,2.0,2.0,2.0,38,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,8.0,8.0,2.0,29,M,Canada
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Yes,True,6.0,6.0,3.0,37,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,8.0,8.0,2.0,29,F,United States of America
+2017,False,I don't know,No,No,No,I don't know,I don't know,Yes,False,7.0,5.0,3.0,38,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,9.0,9.0,4.0,29,M,Switzerland
+2017,True,No,No,Yes,No,I don't know,Somewhat easy,Yes,True,10.0,8.0,2.0,30,F,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8.0,8.0,4.0,32,M,United States of America
+2017,True,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,Yes,True,7.0,7.0,3.0,37,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat easy,No,False,8.0,2.0,1.0,34,M,New Zealand
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,7.0,10.0,5.0,52,M,United States of America
+2017,False,Yes,Yes,No,I don't know,I don't know,Difficult,No,False,8.0,0.0,1.0,36,M,United States of America
+2017,False,Yes,No,No,I don't know,Yes,Neither easy nor difficult,No,True,5.0,5.0,2.0,52,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Very easy,Maybe,True,10.0,10.0,1.0,49,F,United States of America
+2017,True,Yes,Yes,I don't know,Yes,I don't know,I don't know,Maybe,True,10.0,6.0,2.0,30,M,United States of America
+2017,True,Not eligible for coverage / NA,No,No,No,I don't know,Very easy,Yes,True,5.0,6.0,4.0,41,M,Australia
+2017,False,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,9.0,7.0,3.0,29,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,No,False,7.0,10.0,1.0,37,NB,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,True,8.0,8.0,3.0,29,F,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,True,8.0,6.0,3.0,39,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,5.0,5.0,3.0,30,F,United States of America
+2017,True,Yes,Yes,Yes,No,Yes,Somewhat easy,Yes,True,10.0,8.0,2.0,23,F,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,7.0,7.0,3.0,29,F,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Very easy,Yes,True,7.0,8.0,2.0,38,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,I don't know,No,False,7.0,3.0,1.0,41,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Very easy,Yes,False,5.0,7.0,3.0,47,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,5.0,1.0,56,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Difficult,No,False,4.0,3.0,2.0,22,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,7.0,8.0,2.0,32,F,United States of America
+2017,True,I don't know,No,No,No,No,Somewhat easy,No,False,5.0,3.0,4.0,30,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Neither easy nor difficult,No,False,7.0,4.0,1.0,31,NB,United States of America
+2017,True,Yes,Yes,I don't know,Yes,Yes,Very easy,Yes,True,7.0,5.0,3.0,36,M,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Somewhat easy,Maybe,True,5.0,3.0,1.0,32,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,Yes,True,10.0,10.0,2.0,37,F,United States of America
+2017,False,I don't know,No,No,No,Yes,Somewhat difficult,Maybe,False,8.0,7.0,3.0,29,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,3.0,5.0,3.0,31,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Maybe,False,5.0,5.0,3.0,39,M,United States of America
+2017,False,I don't know,No,Yes,Yes,No,Neither easy nor difficult,Yes,False,7.0,8.0,2.0,36,M,Japan
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,7.0,5.0,2.0,38,M,United Kingdom
+2017,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,9.0,9.0,4.0,33,F,United States of America
+2017,True,No,No,I don't know,No,I don't know,Neither easy nor difficult,Yes,True,8.0,8.0,2.0,38,M,Turkey
+2017,True,Yes,No,Yes,I don't know,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,4.0,36,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Yes,True,6.0,6.0,2.0,38,M,United States of America
+2017,True,Yes,No,No,No,Yes,Somewhat difficult,Yes,True,7.0,5.0,2.0,26,M,United States of America
+2017,False,I don't know,Yes,No,Yes,Yes,I don't know,Yes,False,7.0,7.0,2.0,25,M,United Kingdom
+2017,True,Not eligible for coverage / NA,Yes,Yes,Yes,Yes,Somewhat difficult,No,False,7.0,8.0,2.0,40,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Very easy,Yes,False,6.0,2.0,1.0,31,M,Canada
+2017,True,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,False,8.0,6.0,2.0,49,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Very easy,No,False,7.0,6.0,2.0,30,M,Netherlands
+2017,False,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,5.0,4.0,3.0,35,M,United States of America
+2017,False,Yes,Yes,Yes,No,I don't know,I don't know,Yes,False,3.0,1.0,2.0,46,M,United States of America
+2017,True,I don't know,Yes,No,I don't know,Yes,Neither easy nor difficult,Yes,False,10.0,8.0,3.0,29,F,United States of America
+2017,False,Yes,Yes,No,No,I don't know,Very easy,No,False,2.0,2.0,4.0,22,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Very easy,Yes,False,5.0,5.0,2.0,39,M,United States of America
+2017,False,No,No,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,True,9.0,7.0,3.0,40,M,United Kingdom
+2017,True,Yes,Yes,I don't know,Yes,I don't know,I don't know,Maybe,False,5.0,5.0,3.0,31,M,United States of America
+2017,False,Yes,Yes,No,I don't know,I don't know,Difficult,No,False,9.0,9.0,1.0,45,M,United States of America
+2017,True,Yes,No,I don't know,Yes,I don't know,Somewhat easy,No,False,5.0,7.0,3.0,31,F,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,False,5.0,9.0,3.0,25,F,United States of America
+2017,False,I don't know,Yes,No,No,Yes,I don't know,No,False,10.0,5.0,2.0,28,F,United States of America
+2017,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,7.0,7.0,2.0,37,M,United Kingdom
+2017,True,Yes,Yes,Yes,Yes,Yes,I don't know,No,False,10.0,6.0,2.0,45,F,United States of America
+2017,True,Yes,Yes,No,No,I don't know,I don't know,Yes,True,5.0,3.0,3.0,36,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,False,6.0,6.0,3.0,34,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,10.0,10.0,3.0,28,M,United States of America
+2017,False,Yes,Yes,No,Yes,Yes,Somewhat easy,Yes,False,6.0,4.0,3.0,32,M,United States of America
+2017,True,I don't know,No,I don't know,Yes,I don't know,Difficult,Maybe,False,7.0,6.0,2.0,52,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,False,5.0,5.0,3.0,33,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,7.0,6.0,2.0,41,F,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,10.0,10.0,3.0,25,F,United States of America
+2017,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,Yes,False,9.0,2.0,3.0,36,NB,United States of America
+2017,True,Yes,No,Yes,No,Yes,Somewhat easy,No,False,5.0,6.0,4.0,23,F,United States of America
+2017,True,No,Yes,No,No,I don't know,Somewhat easy,Yes,False,5.0,4.0,2.0,37,M,Canada
+2017,False,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,False,6.0,6.0,3.0,42,M,United States of America
+2017,False,I don't know,No,No,No,I don't know,Difficult,Maybe,True,7.0,5.0,4.0,35,F,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Somewhat difficult,Yes,True,8.0,8.0,3.0,32,F,United States of America
+2017,True,I don't know,No,I don't know,I don't know,Yes,Very easy,Maybe,False,4.0,7.0,3.0,23,M,United States of America
+2017,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,6.0,6.0,4.0,35,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,5.0,5.0,3.0,34,F,United States of America
+2017,True,I don't know,No,Yes,I don't know,Yes,Very easy,No,False,8.0,9.0,3.0,24,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Somewhat easy,Yes,True,7.0,7.0,3.0,38,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Maybe,False,8.0,8.0,4.0,23,F,United States of America
+2017,True,Yes,Yes,I don't know,Yes,I don't know,Very easy,Maybe,True,7.0,6.0,3.0,39,NB,United States of America
+2017,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,6.0,5.0,3.0,30,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,10.0,10.0,4.0,35,F,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Somewhat easy,Maybe,False,1.0,4.0,1.0,29,F,United States of America
+2017,True,Yes,No,Yes,No,I don't know,Somewhat difficult,Yes,False,8.0,8.0,3.0,24,F,United States of America
+2017,True,Yes,No,Yes,I don't know,I don't know,Somewhat easy,No,False,7.0,5.0,1.0,35,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,Yes,True,5.0,3.0,1.0,30,M,United States of America
+2017,True,I don't know,No,No,No,Yes,Neither easy nor difficult,Yes,True,7.0,7.0,3.0,28,F,United States of America
+2017,True,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,Maybe,False,5.0,6.0,4.0,32,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,10.0,8.0,4.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Very easy,Maybe,False,2.0,5.0,2.0,33,M,United States of America
+2017,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,10.0,7.0,4.0,32,M,United States of America
+2017,True,Yes,No,No,Yes,I don't know,I don't know,Yes,True,7.0,5.0,3.0,27,F,United States of America
+2017,True,Yes,Yes,Yes,No,I don't know,I don't know,Maybe,False,8.0,8.0,4.0,23,F,United States of America
+2017,True,Yes,Yes,Yes,I don't know,I don't know,Very easy,Yes,True,7.0,7.0,5.0,24,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Yes,True,7.0,8.0,4.0,34,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,8.0,8.0,3.0,32,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,5.0,4.0,1.0,41,F,United States of America
+2017,True,Yes,Yes,No,No,I don't know,I don't know,No,False,5.0,2.0,3.0,37,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,False,10.0,7.0,3.0,26,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Very easy,Yes,True,3.0,5.0,2.0,44,M,United States of America
+2017,True,I don't know,No,No,No,Yes,Somewhat difficult,Maybe,False,6.0,3.0,2.0,40,M,Germany
+2017,False,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,True,8.0,5.0,3.0,27,NB,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,4.0,3.0,3.0,40,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,True,8.0,7.0,4.0,38,NB,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,5.0,3.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,I don't know,No,False,8.0,4.0,3.0,27,F,United States of America
+2017,False,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,8.0,6.0,2.0,34,M ,United States of America
+2017,True,Yes,No,No,Yes,Yes,Very easy,Yes,True,7.0,4.0,3.0,39,M,United States of America
+2017,False,Yes,Yes,No,No,I don't know,I don't know,No,True,7.0,1.0,3.0,37,F,United States of America
+2017,False,I don't know,No,Yes,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,30,M,United States of America
+2017,False,Yes,Yes,I don't know,I don't know,I don't know,Somewhat difficult,No,False,5.0,5.0,2.0,24,M ,United States of America
+2017,True,Yes,No,No,Yes,Yes,Somewhat easy,Maybe,False,6.0,6.0,2.0,37,M,United States of America
+2017,False,Yes,Yes,No,Yes,Yes,Very easy,Yes,False,9.0,9.0,2.0,46,M,United States of America
+2017,False,Yes,Yes,No,No,I don't know,Neither easy nor difficult,Maybe,True,2.0,2.0,1.0,50,M,United States of America
+2017,True,Yes,No,I don't know,Yes,I don't know,Neither easy nor difficult,Yes,False,6.0,5.0,3.0,30,M,United States of America
+2017,True,Yes,Yes,I don't know,I don't know,I don't know,I don't know,Yes,True,8.0,7.0,3.0,32,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Very easy,Yes,True,0.0,0.0,1.0,34,M,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Very easy,Yes,True,6.0,6.0,3.0,35,F,United States of America
+2017,True,No,No,Yes,No,Yes,Neither easy nor difficult,No,True,7.0,9.0,3.0,32,M,India
+2017,False,Yes,Yes,Yes,Yes,I don't know,Neither easy nor difficult,Maybe,False,6.0,5.0,2.0,31,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,False,7.0,4.0,2.0,33,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Difficult,No,False,3.0,0.0,1.0,40,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Neither easy nor difficult,Yes,False,7.0,7.0,4.0,40,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,28,NB,United States of America
+2017,False,I don't know,No,No,No,I don't know,Difficult,No,False,6.0,3.0,3.0,25,M ,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7.0,7.0,4.0,48,M,United States of America
+2017,False,Yes,Yes,Yes,Yes,I don't know,Difficult,Maybe,True,7.0,5.0,2.0,43,F,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,False,7.0,7.0,1.0,29,M,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Very easy,Maybe,True,9.0,4.0,4.0,34,M,United States of America
+2017,True,Not eligible for coverage / NA,Yes,No,I don't know,I don't know,I don't know,Maybe,False,8.0,7.0,2.0,31,F,United States of America
+2017,True,Yes,No,I don't know,No,I don't know,Somewhat easy,Maybe,False,7.0,7.0,3.0,33,M ,United Kingdom
+2017,False,Yes,Yes,Yes,Yes,I don't know,Difficult,No,False,6.0,6.0,3.0,49,M,United States of America
+2017,True,No,No,No,No,I don't know,Somewhat difficult,No,False,7.0,7.0,4.0,30,F,Australia
+2017,False,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,No,False,5.0,5.0,1.0,32,F,United States of America
+2017,True,Yes,No,No,No,I don't know,I don't know,No,False,8.0,4.0,3.0,40,F,United States of America
+2017,True,No,No,I don't know,I don't know,I don't know,Difficult,No,False,8.0,4.0,3.0,21,F,India
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Maybe,False,7.0,5.0,1.0,46,M,United States of America
+2017,False,Yes,Yes,I don't know,Yes,I don't know,Very easy,Yes,True,8.0,6.0,2.0,30,M,United States of America
+2017,True,I don't know,No,Yes,I don't know,I don't know,Somewhat easy,Yes,False,8.0,8.0,2.0,44,F,United States of America
+2017,True,I don't know,No,I don't know,No,I don't know,I don't know,Maybe,False,7.0,5.0,3.0,35,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Very easy,Yes,True,7.0,7.0,4.0,35,M,United Kingdom
+2017,True,Yes,No,No,No,I don't know,I don't know,Maybe,False,10.0,8.0,2.0,30,M,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,7.0,7.0,3.0,22,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Difficult,No,False,7.0,7.0,3.0,41,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,False,4.0,4.0,3.0,32,M,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Very easy,Yes,False,8.0,8.0,4.0,48,M,United States of America
+2017,False,I don't know,No,No,I don't know,I don't know,I don't know,No,False,8.0,5.0,2.0,30,M,United States of America
+2017,False,Yes,No,No,No,Yes,Difficult,Yes,True,7.0,3.0,3.0,45,F,United States of America
+2017,True,No,No,No,No,I don't know,Difficult,No,False,3.0,0.0,2.0,32,NB,United Kingdom
+2017,False,I don't know,No,No,No,I don't know,I don't know,Yes,False,9.0,0.0,1.0,30,M,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,No,False,3.0,3.0,2.0,32,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,No,False,5.0,4.0,2.0,37,F,United States of America
+2017,True,Yes,No,No,No,Yes,Very easy,Yes,False,0.0,0.0,3.0,30,M,United States of America
+2017,True,Yes,No,I don't know,I don't know,I don't know,I don't know,Maybe,False,7.0,5.0,2.0,37,M,United States of America
+2017,True,No,Yes,No,No,Yes,Neither easy nor difficult,Maybe,True,5.0,4.0,3.0,26,M,United Kingdom
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,Maybe,False,3.0,3.0,3.0,50,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,2.0,2.0,2.0,32,m,United States of America
+2017,True,I don't know,No,I don't know,Yes,Yes,Very easy,Yes,False,8.0,8.0,3.0,32,M,United States of America
+2017,True,I don't know,No,I don't know,Yes,I don't know,I don't know,No,False,5.0,4.0,3.0,40,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,Maybe,False,0.0,0.0,1.0,36,M,United States of America
+2017,True,I don't know,No,I don't know,No,I don't know,I don't know,Maybe,True,5.0,5.0,3.0,24,F,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,I don't know,Yes,False,7.0,7.0,2.0,29,F,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,I don't know,Maybe,False,6.0,2.0,1.0,28,M,United States of America
+2017,True,No,Yes,No,I don't know,Yes,Somewhat easy,Yes,True,8.0,6.0,3.0,51,M,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,5.0,5.0,3.0,36,M,United States of America
+2017,True,Yes,No,No,Yes,Yes,Somewhat easy,Maybe,False,6.0,6.0,3.0,40,M,United States of America
+2017,True,Yes,No,No,Yes,I don't know,Somewhat difficult,No,False,8.0,5.0,3.0,39,M,Canada
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,Yes,False,6.0,7.0,3.0,32,F,Netherlands
+2017,False,No,No,Yes,No,No,Neither easy nor difficult,No,False,5.0,1.0,3.0,45,M,United States of America
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Yes,False,5.0,5.0,4.0,39,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,False,7.0,5.0,4.0,46,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat difficult,No,False,6.0,3.0,3.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,No,Somewhat easy,No,False,8.0,4.0,2.0,28,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Neither easy nor difficult,Maybe,True,2.0,2.0,2.0,32,M,United Kingdom
+2017,True,I don't know,No,I don't know,I don't know,I don't know,Difficult,Maybe,False,7.0,5.0,2.0,39,M,United States of America
+2017,True,Yes,No,Yes,Yes,Yes,Somewhat easy,Yes,True,5.0,4.0,3.0,45,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,True,8.0,8.0,2.0,36,F,United States of America
+2017,True,Yes,No,No,No,I don't know,Somewhat easy,Maybe,False,2.0,2.0,3.0,26,M,United States of America
+2017,True,I don't know,No,No,No,I don't know,I don't know,Yes,False,0.0,5.0,2.0,55,F,United States of America
+2017,True,Yes,No,No,No,I don't know,I don't know,No,False,8.0,0.0,1.0,40,NB,United States of America
+2017,False,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,7.0,3.0,2.0,27,F,United States of America
+2017,False,Yes,Yes,I don't know,Yes,Yes,Neither easy nor difficult,Maybe,False,10.0,7.0,2.0,45,F,United States of America
+2017,True,No,No,No,No,I don't know,Difficult,Yes,False,5.0,0.0,2.0,34,F,United States of America
+2017,False,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,False,3.0,3.0,2.0,31,M,United States of America
+2017,False,Yes,Yes,No,I don't know,I don't know,Neither easy nor difficult,Yes,False,9.0,9.0,3.0,40,M,United States of America
+2017,False,Yes,Yes,No,No,Yes,Somewhat easy,Yes,True,5.0,2.0,3.0,41,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,False,8.0,6.0,3.0,39,M,United States of America
+2017,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,No,False,7.0,0.0,2.0,39,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,3.0,2.0,37,M,United States of America
+2017,False,Yes,No,Yes,No,Yes,Very easy,No,False,8.0,0.0,4.0,32,M,France
+2017,False,Yes,No,No,No,I don't know,Neither easy nor difficult,No,False,0.0,4.0,4.0,25,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,I don't know,Maybe,True,5.0,7.0,2.0,49,M,United Kingdom
+2017,False,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,True,3.0,3.0,4.0,28,M,United States of America
+2017,True,Yes,No,No,Yes,I don't know,Somewhat easy,Yes,False,7.0,5.0,2.0,41,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5.0,5.0,3.0,32,M,United States of America
+2017,False,I don't know,No,No,No,Yes,Difficult,Yes,False,7.0,3.0,3.0,23,M,United States of America
+2017,True,Yes,Yes,No,I don't know,Yes,Neither easy nor difficult,Yes,True,8.0,7.0,4.0,53,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Difficult,No,True,7.0,3.0,2.0,34,M,United States of America
+2017,False,No,Yes,Yes,No,Yes,Somewhat difficult,No,False,5.0,3.0,2.0,30,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Yes,False,7.0,5.0,3.0,30,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,I don't know,Yes,False,10.0,5.0,2.0,22,F,United States of America
+2017,True,I don't know,No,No,No,I don't know,Somewhat difficult,Yes,True,3.0,3.0,2.0,27,F,United States of America
+2017,True,Yes,Yes,Yes,No,Yes,Somewhat easy,Yes,True,7.0,8.0,2.0,33,F,United States of America
+2017,True,Yes,Yes,No,Yes,I don't know,Somewhat difficult,No,False,4.0,5.0,2.0,28,M,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Somewhat easy,No,False,5.0,5.0,3.0,36,M,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,10.0,8.0,3.0,25,F,United States of America
+2017,False,Not eligible for coverage / NA,No,No,No,I don't know,Difficult,No,False,8.0,5.0,3.0,30,F,United States of America
+2017,False,Yes,No,No,Yes,I don't know,I don't know,Yes,False,7.0,3.0,3.0,39,M,United States of America
+2017,True,Yes,No,I don't know,No,I don't know,Neither easy nor difficult,Maybe,True,9.0,6.0,3.0,31,NB,United States of America
+2017,False,Yes,Yes,Yes,Yes,I don't know,Somewhat difficult,Maybe,False,6.0,5.0,3.0,48,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Very easy,Maybe,False,5.0,5.0,2.0,43,M,United States of America
+2017,True,Yes,No,No,No,No,Very easy,Maybe,False,6.0,3.0,2.0,35,M,United States of America
+2017,False,Yes,No,Yes,No,I don't know,I don't know,Maybe,False,10.0,0.0,3.0,31,F,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,Yes,False,8.0,8.0,3.0,28,M,United States of America
+2017,True,Yes,Yes,I don't know,Yes,Yes,Somewhat difficult,No,False,9.0,5.0,3.0,43,F,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Difficult,Maybe,False,8.0,5.0,3.0,31,F,United States of America
+2017,True,Yes,No,No,I don't know,Yes,I don't know,No,False,5.0,2.0,2.0,37,M,United States of America
+2017,True,Yes,Yes,No,No,I don't know,Somewhat easy,Yes,True,7.0,7.0,2.0,36,M,United States of America
+2017,True,Yes,Yes,No,Yes,Yes,Very easy,Yes,False,7.0,4.0,1.0,42,F,United States of America
+2017,True,Yes,Yes,I don't know,Yes,Yes,Somewhat easy,No,False,8.0,7.0,2.0,29,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,False,8.0,6.0,3.0,41,F,United States of America
+2017,True,Yes,Yes,Yes,I don't know,Yes,I don't know,Yes,False,7.0,6.0,4.0,53,M,United States of America
+2017,True,I don't know,No,No,I don't know,I don't know,Difficult,No,False,4.0,0.0,1.0,44,M,United States of America
+2017,False,Yes,Yes,I don't know,Yes,I don't know,I don't know,Maybe,False,5.0,5.0,3.0,37,F,United States of America
+2017,True,Yes,No,No,I don't know,I don't know,Neither easy nor difficult,Maybe,True,5.0,5.0,3.0,57,F,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,6.0,4.0,3.0,47,M,United States of America
+2017,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,False,9.0,6.0,2.0,34,M,United States of America
+2017,True,Yes,Yes,No,No,Yes,Somewhat easy,Yes,True,4.0,5.0,4.0,29,M,United States of America
+2017,False,I don't know,No,No,No,I don't know,Difficult,No,False,7.0,0.0,1.0,38,M,United States of America
+2017,True,I don't know,No,No,I don't know,Yes,Very easy,Yes,False,6.0,6.0,3.0,41,M,United Kingdom
+2017,True,Yes,No,I don't know,No,Yes,Very easy,Yes,True,8.0,4.0,3.0,40,M,United States of America
+2017,True,Yes,Yes,No,No,No,Very easy,Yes,True,6.0,4.0,2.0,30,M,United States of America
