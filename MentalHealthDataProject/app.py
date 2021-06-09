@@ -70,7 +70,7 @@ def sample_metadata(sample):
         Mental_health.industry_support,
     ]
     
-  results = db.session.query(*sel).all()    
+    results = db.session.query(*sel).all()    
 # Create a dictionary entry for each row of metadata information
     sample_metadata = {}
     for result in results:
@@ -78,10 +78,10 @@ def sample_metadata(sample):
         Mental_health["physical_importance"] = result[1]
         Mental_health["mental_importance"] = result[2]
         Mental_health["industry_support"] = result[3]
-  
+    
 
-    print(sample_metadata)
-    return jsonify(sample_metadata)
+        print(sample_metadata)
+        return jsonify(sample_metadata)
 
 if __name__ == "__main__":
     app.run(debug=True)
