@@ -187,20 +187,15 @@ year,tech_company,employer_benefits,know_options,employer_discussed_benefits,emp
 2019,True,No,No,No,No,I don't know,Very easy,Maybe,False,8,5,3,31,F,United States of America
 2019,True,No,No,No,No,Yes,Difficult,No,False,9,3,2,30,F,India
 2019,True,Yes,Yes,No,Yes,Yes,Somewhat difficult,Maybe,True,5,3,3,24,F,United States of America
-2020,False,Yes,No,Yes,Yes,I don't know,Very easy,Yes,False,4,4,4,26,M,United States of America
 2020,True,No,No,I don't know,Yes,I don't know,Somewhat easy,Maybe,False,8,8,3,32,M,India
 2020,True,I don't know,No,No,No,I don't know,Very easy,No,False,4,2,3,34,M,United States of America
 2020,True,Yes,Yes,I don't know,I don't know,I don't know,Somewhat easy,Yes,True,8,8,4,44,F,United States of America
 2020,True,No,No,No,Yes,Yes,Difficult,No,False,8,6,3,33,M,India
 2020,True,Yes,No,Yes,Yes,Yes,Neither easy nor difficult,Maybe,True,8,8,3,38,M,Philippines
-2020,False,I don't know,No,No,No,Yes,Somewhat difficult,Yes,False,10,0,4,45,M,United States of America
 2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,False,9,9,4,27,F,India
 2020,True,I don't know,No,I don't know,No,Yes,Somewhat easy,Maybe,False,5,5,3,21,M,Sri Lanka
 2020,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,No,False,8,4,3,30,F,United States of America
-2020,False,I don't know,No,No,No,Yes,Somewhat difficult,Yes,False,10,9,3,44,M,India
-2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,No,False,6,5,2,32,M,Brazil
 2020,True,Yes,No,Yes,Yes,Yes,Difficult,No,False,8,8,3,39,F,India
-2020,False,No,Yes,No,No,I don't know,I don't know,No,False,5,4,3,27,F,Poland
 2020,True,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,8,7,3,34,M,United States of America
 2020,True,No,No,No,No,I don't know,I don't know,No,False,8,3,1,30,M,Taiwan
 2020,True,Not eligible for coverage / NA,No,No,I don't know,I don't know,Difficult,No,False,8,5,2,50,M,India
@@ -212,23 +207,12 @@ year,tech_company,employer_benefits,know_options,employer_discussed_benefits,emp
 2020,True,Yes,Yes,Yes,Yes,No,Somewhat easy,Maybe,False,8,8,5,22,M,Indonesia
 2020,True,No,No,No,No,No,Difficult,No,False,4,0,1,28,F,India
 2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Yes,False,8,8,3,36,M,United States of America
-2020,False,No,Yes,Yes,No,I don't know,Somewhat easy,No,False,3,3,2,41,M,India
 2020,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,True,7,4,3,30,M,United States of America
-2020,False,I don't know,No,Yes,Yes,Yes,Somewhat easy,Maybe,False,9,9,3,34,M,Australia
-2020,False,I don't know,No,Yes,No,I don't know,Somewhat easy,No,False,5,3,3,23,F,Germany
-2020,False,Yes,Yes,No,Yes,Yes,Somewhat easy,No,False,6,5,3,58,M,United States of America
-2020,False,I don't know,No,No,No,I don't know,I don't know,Maybe,False,7,5,3,40,M,Netherlands
 2020,True,Not eligible for coverage / NA,No,No,No,I don't know,Difficult,No,True,7,2,2,32,M,United States of America
 2020,True,I don't know,No,I don't know,I don't know,I don't know,Neither easy nor difficult,Maybe,False,7,7,2,30,M,Portugal
-2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,True,7,7,4,33,F,United States of America
-2020,False,I don't know,No,No,Yes,Yes,Somewhat difficult,Yes,True,4,6,3,22,F,Netherlands
 2020,True,Yes,No,I don't know,Yes,Yes,Very easy,Maybe,False,10,6,3,30,F,United States of America
-2020,False,Yes,No,Yes,Yes,I don't know,Neither easy nor difficult,Yes,True,5,5,3,44,M,United States of America
 2020,True,Yes,Yes,No,I don't know,I don't know,Very easy,Maybe,True,7,5,2,30,M,United States of America
-2020,False,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,7,5,3,39,M,United States of America
 2020,True,Yes,Yes,No,No,I don't know,Somewhat difficult,Maybe,False,3,3,4,48,M,India
-2020,False,I don't know,No,No,No,I don't know,Difficult,No,False,7,4,2,26,M,United States of America
-2020,False,I don't know,Yes,No,Yes,Yes,Somewhat easy,Maybe,False,2,5,3,28,F,Germany
 2020,True,Yes,No,I don't know,I don't know,Yes,Somewhat easy,Yes,False,6,5,2,36,M,United States of America
 2020,True,I don't know,No,No,No,I don't know,Very easy,Maybe,False,5,0,3,37,M,Canada
 2020,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,Maybe,True,6,2,1,42,M,United States of America
@@ -237,23 +221,15 @@ year,tech_company,employer_benefits,know_options,employer_discussed_benefits,emp
 2020,True,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,No,False,10,9,4,50,M,United States of America
 2020,True,I don't know,No,Yes,I don't know,I don't know,Difficult,Maybe,False,8,6,3,31,F,India
 2020,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,8,7,3,29,F,Canada
-2020,False,No,No,No,No,I don't know,Somewhat difficult,No,False,7,5,2,40,M,India
-2020,False,No,No,No,No,I don't know,Somewhat difficult,Maybe,False,7,3,3,33,F,Canada
 2020,True,I don't know,No,I don't know,No,I don't know,Somewhat easy,No,False,5,5,3,29,M,Sweden
 2020,True,I don't know,No,Yes,Yes,I don't know,Very easy,Maybe,True,6,6,4,27,F,United States of America
 2020,True,Yes,Yes,Yes,I don't know,Yes,Somewhat easy,Maybe,False,8,9,3,36,M,United States of America
-2020,False,Yes,Yes,Yes,Yes,I don't know,I don't know,Maybe,False,5,4,3,33,F,United States of America
 2020,True,Yes,Yes,Yes,Yes,Yes,I don't know,Yes,True,7,7,3,42,M,Canada
 2020,True,I don't know,No,No,I don't know,I don't know,I don't know,Maybe,True,4,4,3,31,M,United Kingdom
-2020,False,Yes,Yes,Yes,Yes,I don't know,Somewhat easy,Yes,False,10,7,4,35,F,Mongolia
-2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,False,8,8,3,46,M,United States of America
 2020,True,Yes,Yes,Yes,I don't know,I don't know,Somewhat easy,Yes,True,9,7,2,54,F,United States of America
-2020,False,I don't know,No,No,No,I don't know,Somewhat easy,Maybe,False,5,5,3,33,M,India
 2020,True,No,No,No,No,No,Difficult,No,False,7,2,3,40,F,India
-2020,False,I don't know,No,Yes,Yes,Yes,Neither easy nor difficult,Yes,False,9,6,4,23,F,Serbia
 2020,True,I don't know,No,No,No,I don't know,Neither easy nor difficult,Maybe,False,5,4,2,32,M,United States of America
 2020,True,Yes,Yes,Yes,Yes,Yes,Difficult,No,False,8,8,3,26,F,United States of America
-2020,False,Yes,No,Yes,No,Yes,Somewhat easy,Yes,False,9,8,4,30,M,Germany
 2020,True,Yes,No,Yes,No,Yes,Somewhat easy,Maybe,True,9,7,3,44,M,United States of America
 2020,True,Not eligible for coverage / NA,No,I don't know,I don't know,I don't know,Somewhat difficult,No,False,8,5,2,37,M,United States of America
 2020,True,I don't know,No,No,No,No,Somewhat easy,Yes,False,5,5,2,37,M,India
@@ -263,63 +239,37 @@ year,tech_company,employer_benefits,know_options,employer_discussed_benefits,emp
 2020,True,No,Yes,No,No,No,I don't know,No,False,5,2,2,23,M,Egypt
 2020,True,Yes,No,Yes,Yes,Yes,Very easy,Yes,False,10,10,3,22,F,United States of America
 2020,True,I don't know,No,No,Yes,I don't know,I don't know,No,False,8,8,3,31,F,United States of America
-2020,False,Yes,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,False,7,6,4,59,M,United States of America
-2020,False,Yes,Yes,Yes,No,Yes,Somewhat easy,Yes,False,6,7,4,48,F,United States of America
 2020,True,I don't know,No,I don't know,I don't know,Yes,Somewhat difficult,No,False,8,2,3,30,F,India
 2020,True,Yes,Yes,No,No,Yes,Neither easy nor difficult,No,False,7,4,4,23,M,Germany
-2020,False,Yes,No,No,No,Yes,Somewhat easy,No,False,5,3,3,27,M,United States of America
 2020,True,I don't know,No,No,No,I don't know,Somewhat difficult,No,False,7,5,3,53,F,United States of America
 2020,True,Yes,Yes,No,I don't know,I don't know,Difficult,Maybe,False,7,7,2,32,NB,United States of America
 2020,True,No,No,No,No,I don't know,I don't know,Maybe,True,7,0,1,34,M,India
-2020,False,I don't know,No,No,No,I don't know,Somewhat easy,No,False,8,4,3,29,M,India
-2020,False,No,No,No,No,Yes,Somewhat easy,Yes,False,5,4,2,46,M,Brazil
-2020,False,I don't know,Yes,No,I don't know,I don't know,Very easy,Yes,False,7,4,2,28,M,Iceland
-2020,False,Yes,Yes,Yes,No,I don't know,I don't know,No,False,7,6,3,27,M,Colombia
 2020,True,I don't know,No,Yes,Yes,I don't know,Very easy,Maybe,False,10,10,4,24,F,Philippines
-2020,False,Yes,Yes,No,Yes,I don't know,I don't know,No,False,5,5,5,32,F,United States of America
-2020,False,Yes,Yes,Yes,No,I don't know,Somewhat easy,No,False,8,7,4,26,M,United States of America
 2020,True,Yes,No,No,No,I don't know,Somewhat easy,Yes,False,5,5,4,45,NB,United States of America
 2020,True,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,8,9,4,21,F,United States of America
-2020,False,No,No,No,No,I don't know,Difficult,No,False,8,2,2,44,F,India
 2020,True,I don't know,No,I don't know,Yes,I don't know,Neither easy nor difficult,No,False,10,5,4,47,M,India
 2020,True,Not eligible for coverage / NA,No,No,No,I don't know,Somewhat easy,Maybe,False,3,2,2,40,M,Brazil
-2020,False,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,False,10,5,4,25,F,Malaysia
 2020,True,Yes,Yes,Yes,I don't know,I don't know,Difficult,Maybe,True,8,5,1,24,F,United States of America
 2020,True,Yes,No,Yes,Yes,I don't know,I don't know,Maybe,False,7,7,5,26,F,Indonesia
-2020,False,I don't know,No,Yes,Yes,Yes,Neither easy nor difficult,No,False,7,7,5,32,M,India
-2020,False,I don't know,No,Yes,Yes,I don't know,Somewhat difficult,No,False,5,5,3,33,F,India
-2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,True,8,8,2,42,F,United States of America
 2020,True,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7,7,2,46,M,United Kingdom
 2020,True,Yes,No,Yes,No,I don't know,I don't know,Maybe,False,3,3,3,30,M,United States of America
 2020,True,No,No,Yes,Yes,I don't know,Neither easy nor difficult,No,False,8,4,3,24,M,India
-2020,False,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,10,7,3,42,M,India
-2020,False,I don't know,No,No,I don't know,I don't know,Neither easy nor difficult,No,False,5,5,3,28,M,India
 2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,No,False,7,5,2,27,F,United States of America
-2020,False,Yes,No,Yes,Yes,Yes,Very easy,Yes,True,8,8,3,62,M,United States of America
-2020,False,No,No,No,No,I don't know,Difficult,No,False,3,0,2,34,M,Turkey
 2020,True,I don't know,No,Yes,No,Yes,Very easy,Yes,True,8,7,4,38,M,Spain
 2020,True,I don't know,No,Yes,Yes,Yes,Very easy,Maybe,False,5,5,3,35,M,United States of America
-2020,False,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,True,7,8,2,32,M,United Kingdom
 2020,True,No,No,No,No,I don't know,Somewhat difficult,No,False,4,2,3,32,F,United States of America
 2020,True,No,No,No,No,No,Somewhat easy,Yes,False,2,1,3,25,F,Sri Lanka
-2020,False,No,No,No,No,No,Difficult,Yes,False,8,4,1,24,F,France
 2020,True,I don't know,Yes,No,No,Yes,Neither easy nor difficult,No,True,7,7,1,24,M,Bangladesh
 2020,True,Yes,Yes,Yes,Yes,I don't know,I don't know,Yes,True,5,5,3,48,F,United States of America
-2020,False,Yes,Yes,Yes,Yes,Yes,I don't know,Maybe,False,5,9,3,24,M,Canada
 2020,True,I don't know,No,No,No,I don't know,Somewhat difficult,Maybe,False,4,4,2,32,M,Canada
 2020,True,Yes,No,No,I don't know,I don't know,I don't know,No,False,5,5,2,21,M,Ireland
-2020,False,Yes,No,No,No,Yes,Difficult,Maybe,False,8,2,3,34,M,United States of America
-2020,False,Yes,Yes,No,I don't know,I don't know,Somewhat easy,Maybe,False,8,5,3,25,M,Canada
 2020,True,Yes,No,Yes,Yes,I don't know,Very easy,Yes,True,1,3,2,39,M,United States of America
 2020,True,No,No,No,No,Yes,Neither easy nor difficult,No,False,9,7,3,25,M,India
 2020,True,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,True,7,9,2,39,M,United States of America
-2020,False,I don't know,No,No,No,I don't know,Somewhat easy,No,False,5,5,3,20,M,United Kingdom
 2020,True,Yes,Yes,Yes,Yes,No,Difficult,No,True,6,4,2,40,F,United Kingdom
 2020,True,I don't know,No,I don't know,I don't know,I don't know,Somewhat easy,No,False,8,3,2,31,M,India
-2020,False,No,No,No,No,No,Somewhat difficult,No,False,2,2,2,53,M,United States of America
 2020,True,Yes,Yes,Yes,Yes,I don't know,Very easy,Maybe,False,9,7,3,23,F,Philippines
 2020,True,I don't know,No,No,I don't know,I don't know,Somewhat easy,Maybe,False,5,5,3,34,M,United States of America
-2020,False,Yes,No,Yes,Yes,Yes,Difficult,No,False,6,5,3,43,M,Canada
 2018,True,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,True,8,6,2,57,F,Canada
 2018,True,Yes,Yes,No,I don't know,I don't know,Somewhat difficult,No,False,8,3,3,29,M,United States of America
 2018,True,No,No,No,No,I don't know,Neither easy nor difficult,No,False,8,8,1,34,M,Norway
