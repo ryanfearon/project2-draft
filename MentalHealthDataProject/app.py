@@ -1,5 +1,6 @@
-# import necessary libraries
 
+# import necessary libraries
+import psycopg2
 import pandas as pd
 import numpy as np
 
@@ -13,13 +14,6 @@ from flask_sqlalchemy import SQLAlchemy
 # create instance of Flask app
 app = Flask(__name__)
 
-
-# create route that renders index.html template
-@app.route("/")
-def index():
-    return render_template("index.html")
-
-
     
 # Using Postgres to load data
 # POSTGRES = {
@@ -29,15 +23,19 @@ def index():
 #     'port': '5432',
 # }
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:delilahjones@localhost:5432/mentalhealth_db'
-POSTGRES = {
-    'user': 'postgres',
-    'pw': 'delilahjones',
-    'db': 'mentalhealth_db',
-    'host': 'localhost',
-    'port': '5432',
-}
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://%(user)s:\
-%(pw)s@%(host)s:%(port)s/%(db)s' % POSTGRES
+#}
+# conn = psycopg2.connect(
+#     database="mentalhealth_db",
+#     user="postgres",
+#     password="delilahjones",
+#     host="localhost",
+#     port="5432"
+#)
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:delilahjones@localhost:5432/mentalhealth_db"
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://%(user)s:\
+# %(pw)s@%(host)s:%(port)s/%(db)s' % conn
 db = SQLAlchemy(app)
 
 # reflect an existing database into a new model
@@ -53,14 +51,14 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
-@app.route("/physical")
-def physical():
-    """Return a list of sample names."""
+# @app.route("/physical")
+# def physical():
+#     """Return a list of sample names."""
 
-    # Return a list of the column names (sample names)
-    return jsonify(list(df.columns)[2:])
+#     # Return a list of the column names (sample names)
+#     return jsonify(list(df.columns)[2:])
 
-@app.route("/metadata/<sample>")
+@app.route("/metadata")
 def sample_metadata(sample):
     """Return the MetaData for a given sample."""
     sel = [
